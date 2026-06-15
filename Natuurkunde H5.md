@@ -1,29 +1,38 @@
 # Samenvatting — Ioniserende Straling
 
-**Hoofdstuk 5 · HAVO 4 · Natuurkunde (Newton )**
+**Hoofdstuk 5 · HAVO 4 · Natuurkunde (Newton)**
 
 ---
 
 > [!TIP]
-> Houd je BINAS erbij. Veel constanten (zoals `e`, `u`, weegfactoren) en isotoopgegevens hoef je niet uit je hoofd te kennen je moet ze wél snel kunnen opzoeken.
+> Houd je BINAS erbij. Veel constanten (zoals `e`, `u`, weegfactoren) en isotoopgegevens hoef je niet uit je hoofd te kennen; je moet ze wél snel kunnen opzoeken.
 
 ---
 
 ## Inhoudsopgave
 
-1. [Inhoudsopgave](#1-Inhoudsopgave)
-2. [Leerdoelen & Verwachte Toetsstof](#2-leerdoelen--verwachte-toetsstof)
-3. [Kernconcepten](#3-kernconcepten)
-4. [Formule- & Groothedentabel](#4-formule---groothedentabel)
-5. [Eenheden & Conversietabel](#5-eenheden--conversietabel)
-6. [Stralingssoorten Vergelijkingstabel](#6-stralingssoorten-vergelijkingstabel)
-7. [Kernreacties Overzicht](#7-kernreacties-overzicht)
-8. [Halfwaardetijd & Activiteit — Verdieping](#8-halfwaardetijd--activiteit--verdieping)
-9. [Uitgewerkte Voorbeeldopgaven](#9-uitgewerkte-voorbeeldopgaven)
-10. [Oefenopgaven](#10-oefenopgaven)
-11. [Toetsvoorbereiding Checklist](#11-toetsvoorbereiding-checklist)
-12. [Geheugensteuntjes & Ezelsbruggetjes](#12-geheugensteuntjes--ezelsbruggetjes)
-13. [Woordenlijst / Begrippenlijst](#13-woordenlijst--begrippenlijst)
+1. [Inhoudsopgave](#inhoudsopgave)
+2. [Leerdoelen & Verwachte Toetsstof](#1-leerdoelen--verwachte-toetsstof)
+3. [Kernconcepten](#2-kernconcepten)
+   - [2.1 Atoommodel & kernopbouw](#21-atoommodel--kernopbouw)
+   - [2.2 Isotopen en nuclidenotatie](#22-isotopen-en-nuclidenotatie)
+   - [2.3 Radioactief verval](#23-radioactief-verval)
+   - [2.4 Kernreacties opschrijven en balanceren](#24-kernreacties-opschrijven-en-balanceren)
+   - [2.5 Activiteit (A) en de becquerel](#25-activiteit-a-en-de-becquerel)
+   - [2.6 Halfwaardetijd (t½)](#26-halfwaardetijd-t½)
+   - [2.7 Vervalconstante λ en de relatie met t½](#27-vervalconstante-λ-en-de-relatie-met-t½)
+   - [2.8 Stralingssoorten: eigenschappen](#28-stralingssoorten-eigenschappen)
+   - [2.9 Biologische effecten van straling](#29-biologische-effecten-of-straling)
+   - [2.10 Dosimetrie: dosis en sievert](#210-dosimetrie-dosis-en-sievert)
+   - [2.11 Stralingsbescherming](#211-stralingsbescherming)
+   - [2.12 Toepassingen van straling](#212-toepassingen-van-straling)
+   - [2.13 Achtergrondstraling & stralingsbronnen](#213-achtergrondstraling--stralingsbronnen)
+4. [Formule- & Groothedentabel](#3-formule---groothedentabel)
+5. [Eenheden & Conversietabel](#4-eenheden--conversietabel)
+6. [Stralingssoorten Vergelijkingstabel](#5-stralingssoorten-vergelijkingstabel)
+7. [Kernreacties Overzicht](#6-kernreacties-overzicht)
+8. [Halfwaardetijd & Activiteit — Verdieping](#7-halfwaardetijd--activiteit--verdieping)
+9. [Uitgewerkte Voorbeeldopgaven](#8-uitgewerkte-voorbeeldopgaven)
 
 ---
 
@@ -31,11 +40,11 @@
 
 Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie lagen: *kennen* (uit je hoofd kunnen opdreunen), *kunnen* (toepassen in een berekening) en *begrijpen* (uitleggen waaróm iets zo werkt). De toets test ze alle drie, dus loop per onderdeel eerlijk na waar je staat.
 
-###  Wat je moet KENNEN (reproductie)
+### Wat je moet KENNEN (reproductie)
 
 - De opbouw van het atoom: kern (protonen + neutronen) en elektronenwolk.
 - De begrippen **atoomnummer (Z)**, **massagetal (A)**, **nucleon**, **isotoop**.
-- De **nuclidenotatie** $^{A}_{Z}\text{X}$ en hoe je die leest.
+- De **nuclidenotatie** ${}^{A}_{Z}\text{X}$ en hoe je die leest.
 - De vier vervalsoorten: **alfa (α)**, **bèta-min (β⁻)**, **bèta-plus (β⁺)** en **gamma (γ)** — welk deeltje wordt uitgezonden en wat er met `A` en `Z` gebeurt.
 - De definitie van **activiteit** en de eenheid **becquerel (Bq)**.
 - De definitie van **halfwaardetijd** (`t½`).
@@ -43,9 +52,9 @@ Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie l
 - De drie maatregelen voor **stralingsbescherming**: tijd, afstand, afscherming.
 - De eigenschappen van α-, β- en γ-straling (lading, dracht, doordringend en ioniserend vermogen).
 
-###  Wat je moet KUNNEN (toepassing)
+### Wat je moet KUNNEN (toepassing)
 
-- Uit een nuclidenotatie het aantal protonen, neutronen en elektronen halen.
+- Uit een nuclidenotatie het aantal protonen, neutronen and elektronen halen.
 - **Kernreacties opstellen en balanceren** (behoud van massagetal én lading).
 - De **soort verval herkennen** uit een gegeven reactie.
 - **Halfwaardetijdberekeningen** maken: hoeveel blijft over, hoe lang duurt het, hoe groot is `t½`?
@@ -55,16 +64,16 @@ Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie l
 - **Dosis berekenen**: $D = \tfrac{E}{m}$ en $H = w_R \cdot D$.
 - Rekenen met de **afstandswet** (intensiteit $\sim \tfrac{1}{r^2}$).
 
-###  Wat je moet BEGRIJPEN (inzicht)
+### Wat je moet BEGRIJPEN (inzicht)
 
 - Waarom α-straling **intern** veel gevaarlijker is dan extern, en bij γ andersom.
 - Het verband tussen `λ` en `t½` (kleine `t½` → grote `λ` → snel verval).
 - Waarom ioniserende straling biologisch schadelijk is (ionisatie beschadigt moleculen, vooral DNA).
-- Waarom de equivalente dosis (Sv) een beter maat voor *schade* is dan de geabsorbeerde dosis (Gy).
+- Waarom de equivalente dosis (Sv) een betere maat voor *schade* is dan de geabsorbeerde dosis (Gy).
 - Hoe toepassingen werken (C-14-datering, PET-scan, bestraling, kerncentrale).
 - Het verschil tussen **deterministische** en **stochastische** effecten.
 
-### 📝Soort vragen die je kunt verwachten
+### 📝 Soort vragen die je kunt verwachten
 
 | Type vraag | Voorbeeld |
 |---|---|
@@ -75,7 +84,7 @@ Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie l
 | **Grafiek aflezen/tekenen** | "Lees de halfwaardetijd af uit de grafiek." |
 | **Reken-met-eenheden** | "Reken 2,5 mSv om naar Sv." |
 
-###  Veel vorkomende valkuilen
+### Veelvoorkomende valkuilen
 
 | Onderwerp | Veelgemaakte fout |
 |---|---|
@@ -86,7 +95,7 @@ Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie l
 | Halfwaardetijd | (½)·aantal halfwaardetijden optellen i.p.v. (½) tot de **macht**. |
 | Halfwaardetijd | "Na 2× `t½` is alles weg" — fout: er is dan nog 25% over. |
 | Activiteit | `A = λN` met `λ` in verkeerde tijdseenheid (jaar vs. seconde). |
-| Dosis | Gy en Sv door elkaar halen; de weegfactor `wR` vergeten. |
+| Dosis | Gy and Sv door elkaar halen; de weegfactor `wR` vergeten. |
 | α intern/extern | Denken dat α "het gevaarlijkst" is — extern bijna onschadelijk, intern juist zeer schadelijk. |
 | Eenheden | `m`-voorvoegsels fout: 1 mSv = 10⁻³ Sv, 1 MBq = 10⁶ Bq (let op hoofdletter M vs. kleine m!). |
 
@@ -131,21 +140,21 @@ Hierin is `u` de **atomaire massa-eenheid**: 1 u ≈ 1,6605·10⁻²⁷ kg.
 
 De **nuclidenotatie** schrijf je zo:
 
-$$^{A}_{Z}\text{X}$$
+$${}^{A}_{Z}\text{X}$$
 
 - **`X`** = symbool van het element
 - **`A`** = massagetal (linksboven)
 - **`Z`** = atoomnummer (linksonder)
 
-**Voorbeeld:** uranium-238 schrijf je als $^{238}_{92}\text{U}$ (typografisch ook wel ²³⁸₉₂U). Dit betekent: 92 protonen en `238 − 92 = 146` neutronen.
+**Voorbeeld:** uranium-238 schrijf je als ${}^{238}_{92}\text{U}$. Dit betekent: 92 protonen en `238 − 92 = 146` neutronen.
 
 Drie isotopen van koolstof:
 
 | Nuclide | Protonen | Neutronen | Stabiel? |
 |---|---|---|---|
-| $^{12}_{6}\text{C}$ | 6 | 6 | ja |
-| $^{13}_{6}\text{C}$ | 6 | 7 | ja |
-| $^{14}_{6}\text{C}$ | 6 | 8 | nee (radioactief, β⁻) |
+| ${}^{12}_{6}\text{C}$ | 6 | 6 | ja |
+| ${}^{13}_{6}\text{C}$ | 6 | 7 | ja |
+| ${}^{14}_{6}\text{C}$ | 6 | 8 | nee (radioactief, β⁻) |
 
 > [!TIP]
 > `Z` staat eigenlijk dubbel vast: het volgt al uit het symbool (C = altijd 6). Daarom laat men `Z` soms weg en schrijft men "koolstof-14" of "C-14".
@@ -161,11 +170,9 @@ Een **instabiele** (radioactieve) kern valt vanzelf uiteen onder uitzending van 
 
 #### α-verval (alfa)
 
-De kern stoot een **alfadeeltje** uit: een heliumkern $^{4}_{2}\text{He}$ (2 protonen + 2 neutronen).
+De kern stoot een **alfadeeltje** uit: een heliumkern ${}^{4}_{2}\text{He}$ (2 protonen + 2 neutronen).
 - Massagetal: **−4**
 - Atoomnummer: **−2**
-
-$^{226}{88}\text{Ra} \rightarrow; ?; +, ^{4}{2}\text{He}$
 
 **Voorbeeld:** $${}^{238}_{92}\text{U} \;\rightarrow\; {}^{234}_{90}\text{Th} \;+\; {}^{4}_{2}\text{He}$$
 
@@ -175,23 +182,23 @@ In de kern verandert een **neutron in een proton**, waarbij een **elektron** wor
 - Massagetal: **blijft gelijk**
 - Atoomnummer: **+1**
 
-$$^{A}_{Z}\text{X} \;\rightarrow\; ^{\;\;A}_{Z+1}\text{Y} \;+\; ^{\;\;0}_{-1}\text{e}$$
+$${}^{A}_{Z}\text{X} \;\rightarrow\; {}^{\;\;A}_{Z+1}\text{Y} \;+\; {}^{\;\;0}_{-1}\text{e}$$
 
 Onderliggend proces: $\text{n} \rightarrow \text{p} + \text{e}^- (+\bar{\nu})$
 
-**Voorbeeld:** $^{14}_{6}\text{C} \rightarrow\, ^{14}_{7}\text{N} +\, ^{\;\;0}_{-1}\text{e}$
+**Voorbeeld:** $${}^{14}_{6}\text{C} \;\rightarrow\; {}^{14}_{7}\text{N} \;+\; {}^{\;\;0}_{-1}\text{e}$$
 
 #### β⁺-verval (bèta-plus)
 
-In de kern verandert een **proton in een neutron**, waarbij een **positron** (`⁰₊₁e`, het antideeltje van het elektron) wordt uitgezonden (plus een neutrino).
+In de kern verandert een **proton in een neutron**, waarbij een **positron** (`{}^{0}_{+1}\text{e}`, het antideeltje van het elektron) wordt uitgezonden (plus een neutrino).
 - Massagetal: **blijft gelijk**
 - Atoomnummer: **−1**
 
-$$^{A}_{Z}\text{X} \;\rightarrow\; ^{\;\;A}_{Z-1}\text{Y} \;+\; ^{0}_{+1}\text{e}$$
+$${}^{A}_{Z}\text{X} \;\rightarrow\; {}^{\;\;A}_{Z-1}\text{Y} \;+\; {}^{0}_{+1}\text{e}$$
 
 Onderliggend proces: $\text{p} \rightarrow \text{n} + \text{e}^+ (+\nu)$
 
-**Voorbeeld:** $^{22}_{11}\text{Na} \rightarrow\, ^{22}_{10}\text{Ne} +\, ^{0}_{+1}\text{e}$
+**Voorbeeld:** $${}^{22}_{11}\text{Na} \;\rightarrow\; {}^{22}_{10}\text{Ne} \;+\; {}^{0}_{+1}\text{e}$$
 
 #### γ-verval (gamma)
 
@@ -199,9 +206,9 @@ Na een α- of β-verval blijft de kern vaak in een **aangeslagen toestand** (te 
 - Massagetal: **blijft gelijk**
 - Atoomnummer: **blijft gelijk**
 
-$$^{A}_{Z}\text{X}^{*} \;\rightarrow\; ^{A}_{Z}\text{X} \;+\; \gamma$$
+$${}^{A}_{Z}\text{X}^{*} \;\rightarrow\; {}^{A}_{Z}\text{X} \;+\; \gamma$$
 
-(De `*` betekent "aangeslagen".) Bij γ-verval verandert het element dus **niet**; alleen energie verlaat de kern.
+(De `*` betekent "aangeslagen".) Bij γ-verval䂺verandert het element dus **niet**; alleen energie verlaat de kern.
 
 > [!TIP]
 > Ezelsbruggetje voor de richting van `Z`: bij **β⁻** komt er een *minus*-deeltje uit, dus de kern wordt "positiever" → `Z` gaat **omhoog**. Bij **β⁺** andersom.
@@ -221,10 +228,10 @@ Bij elke kernreactie gelden twee behoudswetten:
 Met deze twee regels kun je een ontbrekende kern altijd terugvinden.
 
 **Voorbeeld (onbekende kern zoeken):**
-$^{226}_{88}\text{Ra} \rightarrow\; ?\; +\, ^{4}_{2}\text{He}$
+$${}^{226}_{88}\text{Ra} \;\rightarrow\; ? \;+\; {}^{4}_{2}\text{He}$$
 - Massagetal: `226 = A + 4` → `A = 222`
 - Lading: `88 = Z + 2` → `Z = 86`
-- Element 86 = radon (Rn), dus: $^{222}_{86}\text{Rn}$
+- Element 86 = radon (Rn), dus: ${}^{222}_{86}\text{Rn}$
 
 > [!TIP]
 > Reken eerst `A` en `Z` van de onbekende uit; zoek pas daarna het symbool op in de tabel via `Z`.
@@ -246,7 +253,7 @@ Verband met het aantal nog aanwezige kernen `N`:
 
 $$A = \lambda \cdot N$$
 
-Hierin is `λ` de vervalconstante (zie 3.7). Omdat `N` daalt terwijl de bron vervalt, **daalt de activiteit in de tijd**:
+Hierin is `λ` de vervalconstante (zie 2.7). Omdat `N` daalt terwijl de bron vervalt, **daalt de activiteit in de tijd**:
 
 $$A = A_0 \cdot \left(\tfrac{1}{2}\right)^{t/t_{1/2}}$$
 
@@ -270,7 +277,7 @@ $$N = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/t_{1/2}} \qquad A = A_0 \cdot \left
 - `t` = verstreken tijd (zelfde eenheid als `t½`!)
 - `t/t½` = het aantal halfwaardetijden
 
-**Grafisch** is dit een dalende **exponentiële** kromme (zie sectie 8): na elke `t½` is er nog de helft over.
+**Grafisch** is dit een dalende **exponentiële** kromme (zie sectie 7): na elke `t½` is er nog de helft over.
 
 **Voorbeeld:** Jood-131 heeft `t½ = 8,0 dagen`. Een bron begint met 800 MBq. Na 24 dagen?
 `24 / 8,0 = 3` halfwaardetijden → `(½)³ = 1/8` → `800 / 8 = 100 MBq`.
@@ -300,13 +307,13 @@ Wil je `λ` in `s⁻¹`? Reken `t½` eerst om: `5,27 × 3,156·10⁷ s = 1,66·1
 > Kleine `t½` ↔ grote `λ`. Ze zijn elkaars "spiegelbeeld" via `ln 2`.
 
 > [!WARNING]
-> **Veelgemaakte fout:** `λ` en `t½` in verschillende tijdseenheden combineren. Houd alles in dezelfde eenheid.
+> **Veelgemaakte fout:** `λ` and `t½` in verschillende tijdseenheden combineren. Houd alles in dezelfde eenheid.
 
 ---
 
 ### 2.8 Stralingssoorten: eigenschappen
 
-De drie soorten straling verschillen sterk in **dracht** (hoe ver ze komen), **doordringend vermogen** (hoeveel materiaal ze nodig hebben om gestopt te worden) en **ioniserend vermogen** (hoeveel schade ze per afstand aanrichten). Zie sectie 6 voor de volledige vergelijkingstabel.
+De drie soorten straling verschillen sterk in **dracht** (hoe ver ze komen), **doordringend vermogen** (hoeveel materiaal ze nodig hebben om gestopt te worden) en **ioniserend vermogen** (hoeveel schade ze per afstand aanrichten). Zie sectie 5 voor de volledige vergelijkingstabel.
 
 - **α-straling** — zwaar, lading +2, **korte dracht** (enkele cm lucht), tegengehouden door een vel papier of de huid. **Zeer sterk ioniserend.**
 - **β-straling** — licht (elektron/positron), lading ±1, **middellange dracht** (decimeters tot enkele meters lucht), tegengehouden door enkele mm aluminium. **Matig ioniserend.**
@@ -317,7 +324,7 @@ De drie soorten straling verschillen sterk in **dracht** (hoe ver ze komen), **d
 
 ---
 
-### 3.9 Biologische effecten van straling
+### 2.9 Biologische effecten of straling
 
 Ioniserende straling slaat elektronen uit moleculen los (ionisatie). In levend weefsel beschadigt dat moleculen — vooral **DNA**. Gevolgen kunnen zijn: celdood, foute reparatie (mutatie) en op lange termijn **kanker**.
 
@@ -362,7 +369,7 @@ $$H = w_R \cdot D$$
 > Gy meet *energie*; Sv meet *schade*. Bij γ en β zijn de getallen gelijk (`wR = 1`), bij α verschillen ze een factor 20.
 
 > [!WARNING]
-> **Veelgemaakte fout:** Gy en Sv door elkaar gebruiken, of `wR` vergeten. De vraag "hoe schadelijk?" gaat altijd over **Sv**.
+> **Veelgemaakte fout:** Gy and Sv door elkaar gebruiken, of `wR` vergeten. De vraag "hoe schadelijk?" gaat altijd over **Sv**.
 
 ---
 
@@ -450,7 +457,7 @@ Alle formules van Hoofdstuk 5 op één plek. Leer ze niet als losse plaatjes: we
 
 ## 4. Eenheden & Conversietabel
 
-Een groot deel van de fouten op toetsen komt door verkeerde voorvoegsels. Let vooral op het verschil tussen **m** (milli, 10⁻³) en **M** (mega, 10⁶)!
+Een groot deel van de fouten op toetsen komt door verkeerde voorvoegsels. Let vooral op het verschil tussen **m** (milli, 10⁻³) and **M** (mega, 10⁶)!
 
 | Grootheid | Eenheid | Symbool | Betekenis |
 |---|---|---|---|
@@ -487,7 +494,7 @@ Een groot deel van de fouten op toetsen komt door verkeerde voorvoegsels. Let vo
 - **Rekenen met `A = λN` in Bq** → `λ` per **seconde**.
 
 > [!WARNING]
-> **Veelgemaakte fout:** mSv en MSv verwisselen. **mSv** (milli) is een miljoenste van een **MSv** (mega) — een factor 10⁹ verschil!
+> **Veelgemaakte fout:** mSv and MSv verwisselen. **mSv** (milli) is een miljoenste van een **MSv** (mega) — een factor 10⁹ verschil!
 
 ---
 
@@ -497,7 +504,7 @@ Dé tabel om uit je hoofd te leren. Veel multiplechoice- en inzichtvragen komen 
 
 | Eigenschap | Alfa (α) | Bèta (β) | Gamma (γ) |
 |---|---|---|---|
-| **Deeltje / golf** | heliumkern $^{4}_{2}\text{He}$ | elektron (β⁻) of positron (β⁺) | foton (em-straling) |
+| **Deeltje / golf** | heliumkern ${}^{4}_{2}\text{He}$ | elektron (β⁻) of positron (β⁺) | foton (em-straling) |
 | **Lading** | +2 | −1 (β⁻) / +1 (β⁺) | 0 |
 | **Massa** | groot (4 u) | klein (≈ 1/1836 u) | 0 (geen rustmassa) |
 | **Dracht in lucht** | kort (enkele cm) | middel (dm tot enkele m) | zeer groot (vele meters) |
@@ -529,30 +536,33 @@ Met de twee behoudswetten kun je elke kernreactie compleet maken en de vervalsoo
 
 | Verval | Uitgezonden deeltje | Verandering `A` | Verandering `Z` | Template |
 |---|---|---|---|---|
-| α | $^{4}_{2}\text{He}$ | −4 | −2 | $^{A}_{Z}\text{X} \rightarrow\, ^{A-4}_{Z-2}\text{Y} +\, ^{4}_{2}\text{He}$ |
-| β⁻ | $^{\;\;0}_{-1}\text{e}$ | 0 | +1 | $^{A}_{Z}\text{X} \rightarrow\, ^{\;\;A}_{Z+1}\text{Y} +\, ^{\;\;0}_{-1}\text{e}$ |
-| β⁺ | $^{0}_{+1}\text{e}$ | 0 | −1 | $^{A}_{Z}\text{X} \rightarrow\, ^{\;\;A}_{Z-1}\text{Y} +\, ^{0}_{+1}\text{e}$ |
-| γ | $\gamma$ (foton) | 0 | 0 | $^{A}_{Z}\text{X}^{*} \rightarrow\, ^{A}_{Z}\text{X} + \gamma$ |
+| α | ${}^{4}_{2}\text{He}$ | −4 | −2 | ${}^{A}_{Z}\text{X} \;\rightarrow\; {}^{A-4}_{Z-2}\text{Y} \;+\; {}^{4}_{2}\text{He}$ |
+| β⁻ | ${}^{\;\;0}_{-1}\text{e}$ | 0 | +1 | ${}^{A}_{Z}\text{X} \;\rightarrow\; {}^{\;\;A}_{Z+1}\text{Y} \;+\; {}^{\;\;0}_{-1}\text{e}$ |
+| β⁺ | ${}^{0}_{+1}\text{e}$ | 0 | −1 | ${}^{A}_{Z}\text{X} \;\rightarrow\; {}^{\;\;A}_{Z-1}\text{Y} \;+\; {}^{0}_{+1}\text{e}$ |
+| γ | $\gamma$ (foton) | 0 | 0 | ${}^{A}_{Z}\text{X}^{*} \;\rightarrow\; {}^{A}_{Z}\text{X} \;+\; \gamma$ |
 
 ### Uitgewerkte voorbeelden
 
 **α-verval (3 voorbeelden):**
-- $^{238}_{92}\text{U} \rightarrow\, ^{234}_{90}\text{Th} +\, ^{4}_{2}\text{He}$
-- $^{226}_{88}\text{Ra} \rightarrow\, ^{222}_{86}\text{Rn} +\, ^{4}_{2}\text{He}$
-- $^{210}_{84}\text{Po} \rightarrow\, ^{206}_{82}\text{Pb} +\, ^{4}_{2}\text{He}$
+- ${}^{238}_{92}\text{U} \;\rightarrow\; {}^{234}_{90}\text{Th} \;+\; {}^{4}_{2}\text{He}$
+- ${}^{226}_{88}\text{Ra} \;\rightarrow\; {}^{222}_{86}\text{Rn} \;+\; {}^{4}_{2}\text{He}$
+- ${}^{210}_{84}\text{Po} \;\rightarrow\; {}^{206}_{82}\text{Pb} \;+\; {}^{4}_{2}\text{He}$
 
 **β⁻-verval (3 voorbeelden):**
-- $^{14}_{6}\text{C} \rightarrow\, ^{14}_{7}\text{N} +\, ^{\;\;0}_{-1}\text{e}$
-- $^{32}_{15}\text{P} \rightarrow\, ^{32}_{16}\text{S} +\, ^{\;\;0}_{-1}\text{e}$
-- $^{90}_{38}\text{Sr} \rightarrow\, ^{90}_{39}\text{Y} +\, ^{\;\;0}_{-1}\text{e}$
+- ${}^{14}_{6}\text{C} \;\rightarrow\; {}^{14}_{7}\text{N} \;+\; {}^{\;\;0}_{-1}\text{e}$
+- ${}^{32}_{15}\text{P} \;\rightarrow\; {}^{32}_{16}\text{S} \;+\; {}^{\;\;0}_{-1}\text{e}$
+- ${}^{90}_{38}\text{Sr} \;\rightarrow\; {}^{90}_{39}\text{Y} \;+\; {}^{\;\;0}_{-1}\text{e}$
 
 **β⁺-verval (3 voorbeelden):**
-- $^{18}_{9}\text{F} \rightarrow\, ^{18}_{8}\text{O} +\, ^{0}_{+1}\text{e}$
-- $^{22}_{11}\text{Na} \rightarrow\, ^{22}_{10}\text{Ne} +\, ^{0}_{+1}\text{e}$
-- $^{11}_{6}\text{C} \rightarrow\, ^{11}_{5}\text{B} +\, ^{0}_{+1}\text{e}$
+- ${}^{18}_{9}\text{F} \;\rightarrow\; {}^{18}_{8}\text{O} \;+\; {}^{0}_{+1}\text{e}$
+- ${}^{22}_{11}\text{Na} \;\rightarrow\; {}^{22}_{10}\text{Ne} \;+\; {}^{0}_{+1}\text{e}$
+- ${}^{11}_{6}\text{C} \;\rightarrow\; {}^{11}_{5}\text{B} \;+\; {}^{0}_{+1}\text{e}$
 
 > [!TIP]
 > Snelle check bij elke reactie: tel de bovenste getallen links en rechts (moeten gelijk zijn) én de onderste getallen links en rechts (moeten gelijk zijn). Klopt één van de twee niet → fout.
+
+> [!WARNING]
+> **Veelgemaakte fout:** Bij β-verval het elektron `{}^{0}_{-1}\text{e}` met massagetal 1 noteren. Een elektron heeft massagetal **0** en ladingsgetal **−1**.
 
 > [!WARNING]
 > **Veelgemaakte fout:** Bij β-verval het elektron `⁰₋₁e` met massagetal 1 noteren. Een elektron heeft massagetal **0** en ladingsgetal **−1**.
