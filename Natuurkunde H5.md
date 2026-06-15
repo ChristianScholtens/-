@@ -1,7 +1,6 @@
-# 📘 Studiegids — Ioniserende Straling
+# Samenvatting — Ioniserende Straling
 
-**Hoofdstuk 5 · HAVO 4 · Natuurkunde**
-**Methode:** Newton
+**Hoofdstuk 5 · HAVO 4 · Natuurkunde (Newton )**
 
 ---
 
@@ -11,9 +10,11 @@
 - **Inclusief oefenopgaven maken:** reken op 3–4 uur in totaal
 - **Aanrader:** verdeel over 2–3 sessies (concepten → formules/tabellen → opgaven)
 
-> 💡 **Studietip:** Lees een onderwerp, sla de gids dicht en schrijf de kernformule + één voorbeeld uit je hoofd op. Wat je niet kunt reproduceren, ken je nog niet. Toetsen testen vooral of je *zelf* kunt rekenen, niet of je het herkent.
+> [!TIP]
+> Lees een onderwerp, sla de gids dicht en schrijf de kernformule + één voorbeeld uit je hoofd op. Wat je niet kunt reproduceren, ken je nog niet. Toetsen testen vooral of je *zelf* kunt rekenen, niet of je het herkent.
 
-> 💡 **Studietip:** Houd je BINAS / formulekaart erbij. Veel constanten (zoals `e`, `u`, weegfactoren) en isotoopgegevens hoef je niet uit je hoofd te kennen — je moet ze wél snel kunnen opzoeken.
+> [!TIP]
+> Houd je BINAS / formulekaart erbij. Veel constanten (zoals `e`, `u`, weegfactoren) en isotoopgegevens hoef je niet uit je hoofd te kennen — je moet ze wél snel kunnen opzoeken.
 
 ---
 
@@ -37,7 +38,7 @@
 
 ## 2. Leerdoelen & Verwachte Toetsstof
 
-Hieronder staat precies wat je voor de toets moet beheersen, opgesplitst in *kennen* (uit je hoofd reproduceren), *kunnen* (toepassen in een berekening) en *begrijpen* (uitleggen waaróm).
+Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie lagen: *kennen* (uit je hoofd kunnen opdreunen), *kunnen* (toepassen in een berekening) en *begrijpen* (uitleggen waaróm iets zo werkt). De toets test ze alle drie, dus loop per onderdeel eerlijk na waar je staat.
 
 ### ✅ Wat je moet KENNEN (reproductie)
 
@@ -102,7 +103,7 @@ Hieronder staat precies wat je voor de toets moet beheersen, opgesplitst in *ken
 
 ## 3. Kernconcepten
 
-Elk onderwerp begint met een korte definitie, gevolgd door uitleg, formules, eenheden, een uitgewerkt voorbeeld en een valkuil.
+De kern van het hoofdstuk. Ik pak elk onderwerp op dezelfde manier aan: eerst een korte definitie, dan de uitleg en de formules, een voorbeeld, en tot slot de valkuil waar de meeste mensen in trappen.
 
 ---
 
@@ -125,9 +126,11 @@ Een atoom bestaat uit een kleine, zware **kern** met daaromheen een wolk van **e
 
 Hierin is `u` de **atomaire massa-eenheid**: 1 u ≈ 1,6605·10⁻²⁷ kg.
 
-> 💡 **Tip:** De massa van een atoom zit praktisch volledig in de kern, want elektronen zijn ~2000× lichter dan nucleonen.
+> [!TIP]
+> De massa van een atoom zit praktisch volledig in de kern, want elektronen zijn ~2000× lichter dan nucleonen.
 
-> ⚠️ **Fout:** Elektronen meetellen bij het massagetal. Het massagetal telt alléén nucleonen (protonen + neutronen).
+> [!WARNING]
+> **Veelgemaakte fout:** Elektronen meetellen bij het massagetal. Het massagetal telt alléén nucleonen (protonen + neutronen).
 
 ---
 
@@ -153,9 +156,11 @@ Drie isotopen van koolstof:
 | $^{13}_{6}\text{C}$ | 6 | 7 | ja |
 | $^{14}_{6}\text{C}$ | 6 | 8 | nee (radioactief, β⁻) |
 
-> 💡 **Tip:** `Z` staat eigenlijk dubbel vast: het volgt al uit het symbool (C = altijd 6). Daarom laat men `Z` soms weg en schrijft men "koolstof-14" of "C-14".
+> [!TIP]
+> `Z` staat eigenlijk dubbel vast: het volgt al uit het symbool (C = altijd 6). Daarom laat men `Z` soms weg en schrijft men "koolstof-14" of "C-14".
 
-> ⚠️ **Fout:** `A` en `Z` verwisselen. Onthoud: het **grootste getal staat boven** (massagetal), het kleinste onder.
+> [!WARNING]
+> **Veelgemaakte fout:** `A` en `Z` verwisselen. Onthoud: het **grootste getal staat boven** (massagetal), het kleinste onder.
 
 ---
 
@@ -207,9 +212,11 @@ $$^{A}_{Z}\text{X}^{*} \;\rightarrow\; ^{A}_{Z}\text{X} \;+\; \gamma$$
 
 (De `*` betekent "aangeslagen".) Bij γ-verval verandert het element dus **niet**; alleen energie verlaat de kern.
 
-> 💡 **Tip:** Ezelsbruggetje voor de richting van `Z`: bij **β⁻** komt er een *minus*-deeltje uit, dus de kern wordt "positiever" → `Z` gaat **omhoog**. Bij **β⁺** andersom.
+> [!TIP]
+> Ezelsbruggetje voor de richting van `Z`: bij **β⁻** komt er een *minus*-deeltje uit, dus de kern wordt "positiever" → `Z` gaat **omhoog**. Bij **β⁺** andersom.
 
-> ⚠️ **Fout:** Denken dat er bij β-verval "een elektron uit de elektronenwolk" komt. Nee — het elektron (of positron) ontstaat *in de kern* doordat een neutron/proton omklapt.
+> [!WARNING]
+> **Veelgemaakte fout:** Denken dat er bij β-verval "een elektron uit de elektronenwolk" komt. Nee — het elektron (of positron) ontstaat *in de kern* doordat een neutron/proton omklapt.
 
 ---
 
@@ -228,9 +235,11 @@ $^{226}_{88}\text{Ra} \rightarrow\; ?\; +\, ^{4}_{2}\text{He}$
 - Lading: `88 = Z + 2` → `Z = 86`
 - Element 86 = radon (Rn), dus: $^{222}_{86}\text{Rn}$
 
-> 💡 **Tip:** Reken eerst `A` en `Z` van de onbekende uit; zoek pas daarna het symbool op in de tabel via `Z`.
+> [!TIP]
+> Reken eerst `A` en `Z` van de onbekende uit; zoek pas daarna het symbool op in de tabel via `Z`.
 
-> ⚠️ **Fout:** Alleen de massagetallen controleren. Een kloppend `A` met een fout `Z` is altijd fout.
+> [!WARNING]
+> **Veelgemaakte fout:** Alleen de massagetallen controleren. Een kloppend `A` met een fout `Z` is altijd fout.
 
 ---
 
@@ -253,7 +262,8 @@ $$A = A_0 \cdot \left(\tfrac{1}{2}\right)^{t/t_{1/2}}$$
 **Voorbeeld:** Een bron heeft `N = 1,0·10²⁰` kernen en `λ = 4,2·10⁻⁹ s⁻¹`.
 `A = λ·N = 4,2·10⁻⁹ × 1,0·10²⁰ = 4,2·10¹¹ Bq` = 420 GBq.
 
-> ⚠️ **Fout:** De eenheid van `A` is verval **per seconde**. Reken `λ` dus altijd om naar `s⁻¹` als je `A` in Bq wilt.
+> [!WARNING]
+> **Veelgemaakte fout:** De eenheid van `A` is verval **per seconde**. Reken `λ` dus altijd om naar `s⁻¹` als je `A` in Bq wilt.
 
 ---
 
@@ -274,9 +284,11 @@ $$N = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/t_{1/2}} \qquad A = A_0 \cdot \left
 **Voorbeeld:** Jood-131 heeft `t½ = 8,0 dagen`. Een bron begint met 800 MBq. Na 24 dagen?
 `24 / 8,0 = 3` halfwaardetijden → `(½)³ = 1/8` → `800 / 8 = 100 MBq`.
 
-> 💡 **Tip:** Is de tijd een heel aantal halfwaardetijden? Dan hoef je alleen te halveren: 1×, 2×, 3× … Veel sneller dan de formule.
+> [!TIP]
+> Is de tijd een heel aantal halfwaardetijden? Dan hoef je alleen te halveren: 1×, 2×, 3× … Veel sneller dan de formule.
 
-> ⚠️ **Fout:** Halveren *optellen* in plaats van *machtsverheffen*. Na 2 halfwaardetijden is er niet "100% − 2×50% = 0%" over, maar `(½)² = 25%`.
+> [!WARNING]
+> **Veelgemaakte fout:** Halveren *optellen* in plaats van *machtsverheffen*. Na 2 halfwaardetijden is er niet "100% − 2×50% = 0%" over, maar `(½)² = 25%`.
 
 ---
 
@@ -293,9 +305,11 @@ $$\lambda = \frac{\ln 2}{t_{1/2}} = \frac{0{,}693}{t_{1/2}} \qquad\Longleftright
 `λ = 0,693 / 5,27 = 0,132 jaar⁻¹`.
 Wil je `λ` in `s⁻¹`? Reken `t½` eerst om: `5,27 × 3,156·10⁷ s = 1,66·10⁸ s`, dus `λ = 0,693 / 1,66·10⁸ = 4,2·10⁻⁹ s⁻¹`.
 
-> 💡 **Tip:** Kleine `t½` ↔ grote `λ`. Ze zijn elkaars "spiegelbeeld" via `ln 2`.
+> [!TIP]
+> Kleine `t½` ↔ grote `λ`. Ze zijn elkaars "spiegelbeeld" via `ln 2`.
 
-> ⚠️ **Fout:** `λ` en `t½` in verschillende tijdseenheden combineren. Houd alles in dezelfde eenheid.
+> [!WARNING]
+> **Veelgemaakte fout:** `λ` en `t½` in verschillende tijdseenheden combineren. Houd alles in dezelfde eenheid.
 
 ---
 
@@ -307,7 +321,8 @@ De drie soorten straling verschillen sterk in **dracht** (hoe ver ze komen), **d
 - **β-straling** — licht (elektron/positron), lading ±1, **middellange dracht** (decimeters tot enkele meters lucht), tegengehouden door enkele mm aluminium. **Matig ioniserend.**
 - **γ-straling** — foton, geen lading, geen massa, **zeer grote dracht**, nooit volledig te stoppen; dik lood of beton nodig om sterk te verzwakken. **Zwak ioniserend** (maar dringt diep door).
 
-> 💡 **Tip:** Algemene regel: hoe sterker ioniserend, hoe kórter de dracht. α geeft veel energie af op korte afstand; γ "verstrooit" zijn energie over een lange weg.
+> [!TIP]
+> Algemene regel: hoe sterker ioniserend, hoe kórter de dracht. α geeft veel energie af op korte afstand; γ "verstrooit" zijn energie over een lange weg.
 
 ---
 
@@ -320,9 +335,11 @@ Twee soorten effecten:
 - **Deterministische effecten:** treden pas op boven een **drempelwaarde**; de ernst neemt toe met de dosis (bijv. stralingsziekte, brandwonden bij hoge dosis).
 - **Stochastische effecten:** de **kans** neemt toe met de dosis, maar er is geen drempel (bijv. kanker, erfelijke schade).
 
-> 💡 **Tip:** "Deterministisch = de uitkomst staat vast boven een drempel; stochastisch = een kanskwestie." Bij lage doses (zoals bij medische diagnostiek) gaat het vooral om stochastisch risico.
+> [!TIP]
+> "Deterministisch = de uitkomst staat vast boven een drempel; stochastisch = een kanskwestie." Bij lage doses (zoals bij medische diagnostiek) gaat het vooral om stochastisch risico.
 
-> ⚠️ **Fout:** Denken dat een lage dosis "veilig" is omdat er niets te merken valt. Het stochastische risico is klein, maar niet nul.
+> [!WARNING]
+> **Veelgemaakte fout:** Denken dat een lage dosis "veilig" is omdat er niets te merken valt. Het stochastische risico is klein, maar niet nul.
 
 ---
 
@@ -350,9 +367,11 @@ $$H = w_R \cdot D$$
 - `D = E/m = 2,0·10⁻³ / 0,50 = 4,0·10⁻³ Gy` (= 4,0 mGy)
 - `H = wR·D = 20 × 4,0·10⁻³ = 8,0·10⁻² Sv` (= 80 mSv)
 
-> 💡 **Tip:** Gy meet *energie*; Sv meet *schade*. Bij γ en β zijn de getallen gelijk (`wR = 1`), bij α verschillen ze een factor 20.
+> [!TIP]
+> Gy meet *energie*; Sv meet *schade*. Bij γ en β zijn de getallen gelijk (`wR = 1`), bij α verschillen ze een factor 20.
 
-> ⚠️ **Fout:** Gy en Sv door elkaar gebruiken, of `wR` vergeten. De vraag "hoe schadelijk?" gaat altijd over **Sv**.
+> [!WARNING]
+> **Veelgemaakte fout:** Gy en Sv door elkaar gebruiken, of `wR` vergeten. De vraag "hoe schadelijk?" gaat altijd over **Sv**.
 
 ---
 
@@ -366,15 +385,17 @@ Je beperkt de opgelopen dosis met drie maatregelen:
    (Twee keer zo ver → vier keer zo weinig straling.)
 3. **Afscherming** — plaats het juiste materiaal tussen jou en de bron: papier/huid stopt α, aluminium stopt β, dik lood of beton verzwakt γ.
 
-> 💡 **Tip:** Onthoud **"tijd, afstand, afscherming"** (TAA) — dé drie pijlers van stralingshygiëne.
+> [!TIP]
+> Onthoud **"tijd, afstand, afscherming"** (TAA) — dé drie pijlers van stralingshygiëne.
 
-> ⚠️ **Fout:** Bij de afstandswet `r` lineair gebruiken. Het is het **kwadraat** van de afstand: 3× verder → 9× minder.
+> [!WARNING]
+> **Veelgemaakte fout:** Bij de afstandswet `r` lineair gebruiken. Het is het **kwadraat** van de afstand: 3× verder → 9× minder.
 
 ---
 
 ### 3.12 Toepassingen van straling
 
-Straling is niet alleen gevaar — het heeft veel nuttige toepassingen.
+Straling is niet alleen iets om bang voor te zijn — we gebruiken het overal, van het ziekenhuis tot de archeologie.
 
 **Medisch:**
 - **Röntgenfoto / CT:** röntgenstraling gaat door zacht weefsel maar wordt door bot tegengehouden → schaduwbeeld.
@@ -389,7 +410,8 @@ Straling is niet alleen gevaar — het heeft veel nuttige toepassingen.
 - **C-14-datering:** levend materiaal bevat een vaste verhouding C-14; na overlijden vervalt die met `t½ = 5730 jaar`. Uit de resterende activiteit bereken je de ouderdom (tot ~50 000 jaar).
 - **Gesteente-datering:** met langlevende isotopen (bijv. U-Pb) dateer je miljoenen tot miljarden jaren.
 
-> 💡 **Tip:** Voor een PET-scan kies je juist een β⁺-bron met een korte halfwaardetijd — sterk signaal, snel weer uit het lichaam verdwenen.
+> [!TIP]
+> Voor een PET-scan kies je juist een β⁺-bron met een korte halfwaardetijd — sterk signaal, snel weer uit het lichaam verdwenen.
 
 ---
 
@@ -409,13 +431,14 @@ Je staat altijd bloot aan een lage **achtergronddosis**. In Nederland is dat gem
 
 Ter vergelijking: een röntgenfoto van de borst ≈ 0,02 mSv; een CT-scan ≈ enkele mSv; de wettelijke limiet voor het publiek (bovenop achtergrond) is ≈ 1 mSv/jaar.
 
-> 💡 **Tip:** Bij vragen over "is dit veel?" vergelijk je altijd met de achtergrond (~2 mSv/jaar). Zo krijgt een getal betekenis.
+> [!TIP]
+> Bij vragen over "is dit veel?" vergelijk je altijd met de achtergrond (~2 mSv/jaar). Zo krijgt een getal betekenis.
 
 ---
 
 ## 4. Formule- & Groothedentabel
 
-Alle formules van Hoofdstuk 5 op een rij. Leer niet alleen de formule, maar ook wat elk symbool betekent en in welke eenheid het hoort.
+Alle formules van Hoofdstuk 5 op één plek. Leer ze niet als losse plaatjes: weet bij elk symbool wat het betekent én in welke eenheid het hoort. Dat scheelt je de helft van de fouten.
 
 | Formule | Naam | Grootheden | Symbool | Eenheid (SI) | Opmerkingen |
 |---|---|---|---|---|---|
@@ -429,7 +452,8 @@ Alle formules van Hoofdstuk 5 op een rij. Leer niet alleen de formule, maar ook 
 | $I_1 \cdot r_1^{\,2} = I_2 \cdot r_2^{\,2}$ | Afstandswet | intensiteit / afstand | `I` / `r` | W/m² / m | Geldt voor een puntbron; `I ∼ 1/r²` |
 | $N_{\text{neutronen}} = A - Z$ | Aantal neutronen | — | `A` / `Z` | — | Volgt uit de nuclidenotatie |
 
-> 💡 **Tip:** De twee vervalwetten (`N`- en `A`-versie) zijn identiek van vorm. Wat je gebruikt hangt af van wat er gegeven/gevraagd is.
+> [!TIP]
+> De twee vervalwetten (`N`- en `A`-versie) zijn identiek van vorm. Wat je gebruikt hangt af van wat er gegeven/gevraagd is.
 
 ---
 
@@ -471,7 +495,8 @@ Een groot deel van de fouten op toetsen komt door verkeerde voorvoegsels. Let vo
 - **Schade aan het lichaam / dosislimieten** → Sv (vaak mSv of µSv).
 - **Rekenen met `A = λN` in Bq** → `λ` per **seconde**.
 
-> ⚠️ **Fout:** mSv en MSv verwisselen. **mSv** (milli) is een miljoenste van een **MSv** (mega) — een factor 10⁹ verschil!
+> [!WARNING]
+> **Veelgemaakte fout:** mSv en MSv verwisselen. **mSv** (milli) is een miljoenste van een **MSv** (mega) — een factor 10⁹ verschil!
 
 ---
 
@@ -492,9 +517,11 @@ Dé tabel om uit je hoofd te leren. Veel multiplechoice- en inzichtvragen komen 
 | **Gevaar INTERN (in lichaam)** | zeer groot (alle energie in weefsel) | matig | matig (deel ontsnapt uit lichaam) |
 | **Stralingsweegfactor `wR`** | 20 | 1 | 1 |
 
-> 💡 **Tip:** Denk aan een logica: α is een "botte beuker" — veel schade, maar komt niet ver. γ is een "sluipschutter" — weinig schade per botsing, maar gaat overal doorheen. Daarom is α intern het gevaarlijkst en γ extern.
+> [!TIP]
+> Denk aan een logica: α is een "botte beuker" — veel schade, maar komt niet ver. γ is een "sluipschutter" — weinig schade per botsing, maar gaat overal doorheen. Daarom is α intern het gevaarlijkst en γ extern.
 
-> ⚠️ **Fout:** "α is altijd het gevaarlijkst." Onjuist — buiten het lichaam houdt je huid α tegen. Het gevaar hangt af van *waar* de bron zit.
+> [!WARNING]
+> **Veelgemaakte fout:** "α is altijd het gevaarlijkst." Onjuist — buiten het lichaam houdt je huid α tegen. Het gevaar hangt af van *waar* de bron zit.
 
 ---
 
@@ -533,9 +560,11 @@ Met de twee behoudswetten kun je elke kernreactie compleet maken en de vervalsoo
 - $^{22}_{11}\text{Na} \rightarrow\, ^{22}_{10}\text{Ne} +\, ^{0}_{+1}\text{e}$
 - $^{11}_{6}\text{C} \rightarrow\, ^{11}_{5}\text{B} +\, ^{0}_{+1}\text{e}$
 
-> 💡 **Tip:** Snelle check bij elke reactie: tel de bovenste getallen links en rechts (moeten gelijk zijn) én de onderste getallen links en rechts (moeten gelijk zijn). Klopt één van de twee niet → fout.
+> [!TIP]
+> Snelle check bij elke reactie: tel de bovenste getallen links en rechts (moeten gelijk zijn) én de onderste getallen links en rechts (moeten gelijk zijn). Klopt één van de twee niet → fout.
 
-> ⚠️ **Fout:** Bij β-verval het elektron `⁰₋₁e` met massagetal 1 noteren. Een elektron heeft massagetal **0** en ladingsgetal **−1**.
+> [!WARNING]
+> **Veelgemaakte fout:** Bij β-verval het elektron `⁰₋₁e` met massagetal 1 noteren. Een elektron heeft massagetal **0** en ladingsgetal **−1**.
 
 ---
 
@@ -568,7 +597,8 @@ Na elke halfwaardetijd halveert het aantal kernen (en de activiteit). Dat geeft 
 
 Kenmerken: de grafiek **daalt steeds langzamer** maar bereikt nooit precies nul. Bij elke `t½` naar rechts is de hoogte **gehalveerd**.
 
-> 💡 **Tip:** Halfwaardetijd aflezen uit een grafiek? Zoek waar `N` (of `A`) op de **helft** van de beginwaarde zit, en lees de bijbehorende tijd af. Dat is `t½`.
+> [!TIP]
+> Halfwaardetijd aflezen uit een grafiek? Zoek waar `N` (of `A`) op de **helft** van de beginwaarde zit, en lees de bijbehorende tijd af. Dat is `t½`.
 
 ### Stappenplan — halfwaardetijdberekening
 
@@ -600,15 +630,17 @@ Kenmerken: de grafiek **daalt steeds langzamer** maar bereikt nooit precies nul.
 | 7 | 1/128 | 0,78 % |
 | 10 | 1/1024 | 0,098 % |
 
-> 💡 **Tip:** Vuistregel: na ongeveer **10 halfwaardetijden** is er nog maar ~0,1% over — praktisch "verwaarloosbaar".
+> [!TIP]
+> Vuistregel: na ongeveer **10 halfwaardetijden** is er nog maar ~0,1% over — praktisch "verwaarloosbaar".
 
-> ⚠️ **Fout:** Bij niet-hele aantallen halfwaardetijden tóch alleen maar halveren. Bij `t/t½ = 2,5` moet je echt `(½)^2,5` rekenen (≈ 0,177), niet tussen 25% en 12,5% gokken.
+> [!WARNING]
+> **Veelgemaakte fout:** Bij niet-hele aantallen halfwaardetijden tóch alleen maar halveren. Bij `t/t½ = 2,5` moet je echt `(½)^2,5` rekenen (≈ 0,177), niet tussen 25% en 12,5% gokken.
 
 ---
 
 ## 9. Uitgewerkte Voorbeeldopgaven
 
-Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau. Probeer ze eerst zelf en kijk daarna pas naar de uitwerking.
+Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau. Doe jezelf een plezier: probeer elke opgave eerst écht zelf en kijk pas daarna naar de uitwerking. Vastlopen hoort erbij — daar leer je juist het meest van.
 
 ---
 
@@ -625,7 +657,8 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 > **✅ Antwoord:** 26 protonen, 30 neutronen, 26 elektronen.
 
-> ⚠️ **Fout:** "30 nucleonen" zeggen i.p.v. 30 neutronen. Nucleonen = protonen + neutronen = 56.
+> [!WARNING]
+> **Veelgemaakte fout:** "30 nucleonen" zeggen i.p.v. 30 neutronen. Nucleonen = protonen + neutronen = 56.
 
 ---
 
@@ -642,7 +675,8 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 > **✅ Antwoord:** $^{237}_{93}\text{Np}$
 
-> 💡 **Tip:** Reken `A` en `Z` apart uit en zoek pas dán het symbool op via `Z`.
+> [!TIP]
+> Reken `A` en `Z` apart uit en zoek pas dán het symbool op via `Z`.
 
 ---
 
@@ -660,7 +694,8 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 > **✅ Antwoord:** Het deeltje is $^{\;\;0}_{-1}\text{e}$; het is **bèta-min-verval (β⁻)**.
 
-> ⚠️ **Fout:** Op de stijging van `Z` letten en denken "een proton erbij" → daardoor per ongeluk α of β⁺ noemen. Check altijd `A` én `Z`.
+> [!WARNING]
+> **Veelgemaakte fout:** Op de stijging van `Z` letten en denken "een proton erbij" → daardoor per ongeluk α of β⁺ noemen. Check altijd `A` én `Z`.
 
 ---
 
@@ -677,7 +712,8 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 > **✅ Antwoord:** 60 MBq
 
-> 💡 **Tip:** Bij een heel aantal halfwaardetijden gewoon halveren: 480 → 240 → 120 → 60. Sneller dan de formule.
+> [!TIP]
+> Bij een heel aantal halfwaardetijden gewoon halveren: 480 → 240 → 120 → 60. Sneller dan de formule.
 
 ---
 
@@ -695,7 +731,8 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 > **✅ Antwoord:** 75 minuten (= 1 uur en 15 minuten)
 
-> 💡 **Tip:** Leer de machten van ½ uit je hoofd: 1/2, 1/4, 1/8, 1/16, **1/32**, 1/64. Dan herken je `n` meteen.
+> [!TIP]
+> Leer de machten van ½ uit je hoofd: 1/2, 1/4, 1/8, 1/16, **1/32**, 1/64. Dan herken je `n` meteen.
 
 ---
 
@@ -713,7 +750,8 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 > **✅ Antwoord:** ≈ 2,3·10⁸ Bq
 
-> ⚠️ **Fout:** `1,818` afronden naar 2 en `(½)² = ¼` gebruiken. Dat geeft `2,0·10⁸` — net verkeerd. Rond pas op het eind af.
+> [!WARNING]
+> **Veelgemaakte fout:** `1,818` afronden naar 2 en `(½)² = ¼` gebruiken. Dat geeft `2,0·10⁸` — net verkeerd. Rond pas op het eind af.
 
 ---
 
@@ -731,7 +769,8 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 > **✅ Antwoord:** ≈ 27 jaar
 
-> 💡 **Tip:** Controle: 10% ligt tussen 12,5% (3 t½) en 6,25% (4 t½), dus tussen 24 en 32 jaar. 27 jaar past — logische uitkomst.
+> [!TIP]
+> Controle: 10% ligt tussen 12,5% (3 t½) en 6,25% (4 t½), dus tussen 24 en 32 jaar. 27 jaar past — logische uitkomst.
 
 ---
 
@@ -748,7 +787,8 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 > **✅ Antwoord:** ≈ 3,8·10⁹ Bq (= 3,8 GBq)
 
-> ⚠️ **Fout:** `t½` in jaren laten staan en toch een antwoord in Bq geven. Voor becquerel **moet** `λ` in `s⁻¹`.
+> [!WARNING]
+> **Veelgemaakte fout:** `t½` in jaren laten staan en toch een antwoord in Bq geven. Voor becquerel **moet** `λ` in `s⁻¹`.
 
 ---
 
@@ -764,7 +804,8 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 > **✅ Antwoord:** 5,0·10⁻³ Gy = 5,0 mGy
 
-> 💡 **Tip:** 1 Gy = 1 J/kg. De eenheid valt al weg te leiden uit de formule (J gedeeld door kg).
+> [!TIP]
+> 1 Gy = 1 J/kg. De eenheid valt al weg te leiden uit de formule (J gedeeld door kg).
 
 ---
 
@@ -781,7 +822,8 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 > **✅ Antwoord:** (a) 2,5 mSv  (b) 50 mSv
 
-> 💡 **Tip:** Zelfde energie, 20× meer schade bij α. Dit verklaart waarom een α-bron in het lichaam zo gevaarlijk is.
+> [!TIP]
+> Zelfde energie, 20× meer schade bij α. Dit verklaart waarom een α-bron in het lichaam zo gevaarlijk is.
 
 ---
 
@@ -798,7 +840,8 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 > **✅ Antwoord:** ≈ 13 µSv/h
 
-> ⚠️ **Fout:** Denken "3× zo ver, dus 3× minder = 40 µSv/h". Het is het **kwadraat**: 3× verder → 9× minder.
+> [!WARNING]
+> **Veelgemaakte fout:** Denken "3× zo ver, dus 3× minder = 40 µSv/h". Het is het **kwadraat**: 3× verder → 9× minder.
 
 ---
 
@@ -814,13 +857,14 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 > **✅ Antwoord:** ≈ 17 000 jaar (1,7·10⁴ jaar)
 
-> 💡 **Tip:** Datering werkt zolang er nog meetbare C-14 over is — in de praktijk tot ongeveer 50 000 jaar (≈ 9 halfwaardetijden).
+> [!TIP]
+> Datering werkt zolang er nog meetbare C-14 over is — in de praktijk tot ongeveer 50 000 jaar (≈ 9 halfwaardetijden).
 
 ---
 
 ## 10. Oefenopgaven
 
-Zeventien opgaven, oplopend in moeilijkheid. Maak ze eerst helemaal zelf; de volledige uitwerkingen staan onder de scheidingslijn **--- ANTWOORDEN ---**.
+Zeventien opgaven, oplopend in moeilijkheid. Maak ze eerst helemaal zelf — zonder spieken. De volledige uitwerkingen staan onder de scheidingslijn **--- ANTWOORDEN ---**.
 
 **Opgave 1** *(kernopbouw)* — Geef voor een neutraal atoom radon-222, $^{222}_{86}\text{Rn}$, het aantal protonen, neutronen en elektronen.
 
@@ -1107,7 +1151,7 @@ Handige trucjes om de stof snel terug te halen tijdens de toets.
 
 ## 13. Woordenlijst / Begrippenlijst
 
-Alle kernbegrippen alfabetisch, in eigen woorden uitgelegd.
+Alle kernbegrippen op een rij, alfabetisch en in gewone taal. Handig om snel iets op te zoeken of jezelf te overhoren.
 
 | Begrip | Betekenis |
 |---|---|
@@ -1149,4 +1193,5 @@ Alle kernbegrippen alfabetisch, in eigen woorden uitgelegd.
 
 ---
 
-> 🎯 **Succes met leren!** Werk de checklist in sectie 11 af, maak alle oefenopgaven uit sectie 10 minstens één keer zonder spieken, en herhaal de vergelijkingstabel (sectie 6) en formuletabel (sectie 4) vlak voor de toets. Dat dekt verreweg de meeste punten.
+> [!TIP]
+> **Succes met leren!** Werk de checklist in sectie 11 af, maak alle oefenopgaven uit sectie 10 minstens één keer zonder spieken, en herhaal de vergelijkingstabel (sectie 6) en formuletabel (sectie 4) vlak voor de toets. Dat dekt verreweg de meeste punten.
