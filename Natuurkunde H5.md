@@ -174,7 +174,7 @@ De kern stoot een **alfadeeltje** uit: een heliumkern ${}^{4}_{2}\text{He}$ (2 p
 - Massagetal: **−4**
 - Atoomnummer: **−2**
 
-**Voorbeeld:** $${}^{238}_{92}\text{U} \;\rightarrow\; {}^{234}_{90}\text{Th} \;+\; {}^{4}_{2}\text{He}$$
+**Voorbeeld:** $${}^{238}_{92}\text{U} \rightarrow {}^{234}_{90}\text{Th} + {}^{4}_{2}\text{He}$$
 
 #### β⁻-verval (bèta-min)
 
