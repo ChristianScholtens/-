@@ -5,16 +5,13 @@
 ---
 
 > [!TIP]
-> Lees een onderwerp, sla de gids dicht en schrijf de kernformule + één voorbeeld uit je hoofd op. Wat je niet kunt reproduceren, ken je nog niet. Toetsen testen vooral of je *zelf* kunt rekenen, niet of je het herkent.
-
-> [!TIP]
-> Houd je BINAS / formulekaart erbij. Veel constanten (zoals `e`, `u`, weegfactoren) en isotoopgegevens hoef je niet uit je hoofd te kennen je moet ze wél snel kunnen opzoeken.
+> Houd je BINAS erbij. Veel constanten (zoals `e`, `u`, weegfactoren) en isotoopgegevens hoef je niet uit je hoofd te kennen je moet ze wél snel kunnen opzoeken.
 
 ---
 
 ## 📑 Inhoudsopgave
 
-1. *(Deze kop & inhoudsopgave)*
+1. [inhoudsopgave](#1-inhoudsopgave)
 2. [Leerdoelen & Verwachte Toetsstof](#2-leerdoelen--verwachte-toetsstof)
 3. [Kernconcepten](#3-kernconcepten)
 4. [Formule- & Groothedentabel](#4-formule---groothedentabel)
