@@ -9,9 +9,9 @@
 
 ---
 
-## 📑 Inhoudsopgave
+## Inhoudsopgave
 
-1. [inhoudsopgave](#1-inhoudsopgave)
+1. [inhoudsopgave](#1-Inhoudsopgave)
 2. [Leerdoelen & Verwachte Toetsstof](#2-leerdoelen--verwachte-toetsstof)
 3. [Kernconcepten](#3-kernconcepten)
 4. [Formule- & Groothedentabel](#4-formule---groothedentabel)
@@ -27,7 +27,7 @@
 
 ---
 
-## 2. Leerdoelen & Verwachte Toetsstof
+## 1. Leerdoelen & Verwachte Toetsstof
 
 Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie lagen: *kennen* (uit je hoofd kunnen opdreunen), *kunnen* (toepassen in een berekening) en *begrijpen* (uitleggen waaróm iets zo werkt). De toets test ze alle drie, dus loop per onderdeel eerlijk na waar je staat.
 
