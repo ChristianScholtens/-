@@ -92,13 +92,13 @@ Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie l
 
 ---
 
-## 3. Kernconcepten
+## 2. Kernconcepten
 
 De kern van het hoofdstuk. Ik pak elk onderwerp op dezelfde manier aan: eerst een korte definitie, dan de uitleg en de formules, een voorbeeld, en tot slot de valkuil waar de meeste mensen in trappen.
 
 ---
 
-### 3.1 Atoommodel & kernopbouw
+### 2.1 Atoommodel & kernopbouw
 
 Een atoom bestaat uit een kleine, zware **kern** met daaromheen een wolk van **elektronen**. In de kern zitten **protonen** (positief geladen) en **neutronen** (ongeladen). Samen heten protonen en neutronen **nucleonen**.
 
@@ -125,7 +125,7 @@ Hierin is `u` de **atomaire massa-eenheid**: 1 u ≈ 1,6605·10⁻²⁷ kg.
 
 ---
 
-### 3.2 Isotopen en nuclidenotatie
+### 2.2 Isotopen en nuclidenotatie
 
 **Isotopen** zijn atomen van *hetzelfde element* (zelfde `Z`) maar met een *verschillend aantal neutronen* (verschillend `A`). Ze gedragen zich chemisch hetzelfde, maar kunnen natuurkundig verschillen (de één stabiel, de ander radioactief).
 
@@ -155,7 +155,7 @@ Drie isotopen van koolstof:
 
 ---
 
-### 3.3 Radioactief verval
+### 2.3 Radioactief verval
 
 Een **instabiele** (radioactieve) kern valt vanzelf uiteen onder uitzending van straling. Dit heet **radioactief verval**. Welk type verval optreedt, hangt af van waaróm de kern instabiel is. Er zijn vier typen die je moet kennen.
 
@@ -211,7 +211,7 @@ $$^{A}_{Z}\text{X}^{*} \;\rightarrow\; ^{A}_{Z}\text{X} \;+\; \gamma$$
 
 ---
 
-### 3.4 Kernreacties opschrijven en balanceren
+### 2.4 Kernreacties opschrijven en balanceren
 
 Bij elke kernreactie gelden twee behoudswetten:
 
@@ -234,7 +234,7 @@ $^{226}_{88}\text{Ra} \rightarrow\; ?\; +\, ^{4}_{2}\text{He}$
 
 ---
 
-### 3.5 Activiteit (A) en de becquerel
+### 2.5 Activiteit (A) en de becquerel
 
 De **activiteit** van een bron is het **aantal kernen dat per seconde vervalt**.
 
@@ -258,7 +258,7 @@ $$A = A_0 \cdot \left(\tfrac{1}{2}\right)^{t/t_{1/2}}$$
 
 ---
 
-### 3.6 Halfwaardetijd (t½)
+### 2.6 Halfwaardetijd (t½)
 
 De **halfwaardetijd** `t½` is de tijd waarin **de helft** van de radioactieve kernen vervalt (en dus ook waarin de activiteit halveert).
 
@@ -283,7 +283,7 @@ $$N = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/t_{1/2}} \qquad A = A_0 \cdot \left
 
 ---
 
-### 3.7 Vervalconstante λ en de relatie met t½
+### 2.7 Vervalconstante λ en de relatie met t½
 
 De **vervalconstante** `λ` is de kans (per tijdseenheid) dat een willekeurige kern vervalt. Een grote `λ` betekent: snel verval, dus een korte halfwaardetijd.
 
@@ -304,7 +304,7 @@ Wil je `λ` in `s⁻¹`? Reken `t½` eerst om: `5,27 × 3,156·10⁷ s = 1,66·1
 
 ---
 
-### 3.8 Stralingssoorten: eigenschappen
+### 2.8 Stralingssoorten: eigenschappen
 
 De drie soorten straling verschillen sterk in **dracht** (hoe ver ze komen), **doordringend vermogen** (hoeveel materiaal ze nodig hebben om gestopt te worden) en **ioniserend vermogen** (hoeveel schade ze per afstand aanrichten). Zie sectie 6 voor de volledige vergelijkingstabel.
 
@@ -334,7 +334,7 @@ Twee soorten effecten:
 
 ---
 
-### 3.10 Dosimetrie: dosis en sievert
+### 2.10 Dosimetrie: dosis en sievert
 
 **Dosimetrie** gaat over het *meten* van hoeveel stralingsenergie een lichaam opneemt en hoe schadelijk dat is.
 
@@ -366,7 +366,7 @@ $$H = w_R \cdot D$$
 
 ---
 
-### 3.11 Stralingsbescherming
+### 2.11 Stralingsbescherming
 
 Je beperkt de opgelopen dosis met drie maatregelen:
 
@@ -384,7 +384,7 @@ Je beperkt de opgelopen dosis met drie maatregelen:
 
 ---
 
-### 3.12 Toepassingen van straling
+### 2.12 Toepassingen van straling
 
 Straling is niet alleen iets om bang voor te zijn — we gebruiken het overal, van het ziekenhuis tot de archeologie.
 
@@ -406,7 +406,7 @@ Straling is niet alleen iets om bang voor te zijn — we gebruiken het overal, v
 
 ---
 
-### 3.13 Achtergrondstraling & stralingsbronnen
+### 2.13 Achtergrondstraling & stralingsbronnen
 
 Je staat altijd bloot aan een lage **achtergronddosis**. In Nederland is dat gemiddeld ongeveer **2–2,5 mSv per jaar**.
 
@@ -427,7 +427,7 @@ Ter vergelijking: een röntgenfoto van de borst ≈ 0,02 mSv; een CT-scan ≈ en
 
 ---
 
-## 4. Formule- & Groothedentabel
+## 3. Formule- & Groothedentabel
 
 Alle formules van Hoofdstuk 5 op één plek. Leer ze niet als losse plaatjes: weet bij elk symbool wat het betekent én in welke eenheid het hoort. Dat scheelt je de helft van de fouten.
 
@@ -448,7 +448,7 @@ Alle formules van Hoofdstuk 5 op één plek. Leer ze niet als losse plaatjes: we
 
 ---
 
-## 5. Eenheden & Conversietabel
+## 4. Eenheden & Conversietabel
 
 Een groot deel van de fouten op toetsen komt door verkeerde voorvoegsels. Let vooral op het verschil tussen **m** (milli, 10⁻³) en **M** (mega, 10⁶)!
 
@@ -491,7 +491,7 @@ Een groot deel van de fouten op toetsen komt door verkeerde voorvoegsels. Let vo
 
 ---
 
-## 6. Stralingssoorten Vergelijkingstabel
+## 5. Stralingssoorten Vergelijkingstabel
 
 Dé tabel om uit je hoofd te leren. Veel multiplechoice- en inzichtvragen komen hier rechtstreeks uit.
 
@@ -516,7 +516,7 @@ Dé tabel om uit je hoofd te leren. Veel multiplechoice- en inzichtvragen komen 
 
 ---
 
-## 7. Kernreacties Overzicht
+## 6. Kernreacties Overzicht
 
 Met de twee behoudswetten kun je elke kernreactie compleet maken en de vervalsoort bepalen.
 
@@ -559,7 +559,7 @@ Met de twee behoudswetten kun je elke kernreactie compleet maken en de vervalsoo
 
 ---
 
-## 8. Halfwaardetijd & Activiteit — Verdieping
+## 7. Halfwaardetijd & Activiteit — Verdieping
 
 Hier oefen je het rekenwerk dat op de toets het meeste punten oplevert.
 
@@ -629,7 +629,7 @@ Kenmerken: de grafiek **daalt steeds langzamer** maar bereikt nooit precies nul.
 
 ---
 
-## 9. Uitgewerkte Voorbeeldopgaven
+## 8. Uitgewerkte Voorbeeldopgaven
 
 Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau. Doe jezelf een plezier: probeer elke opgave eerst écht zelf en kijk pas daarna naar de uitwerking. Vastlopen hoort erbij — daar leer je juist het meest van.
 
@@ -1065,11 +1065,11 @@ Isotopen hebben hetzelfde atoomnummer `Z`. De drie zuurstofnucliden hebben allem
 
 ---
 
-## 11. Toetsvoorbereiding Checklist
+## 10. Toetsvoorbereiding Checklist
 
 Vink af wat je beheerst. Kun je iets niet zonder de gids? Dan ken je het nog niet — terug naar dat onderwerp. Gesorteerd op **Kennis → Begrip → Toepassing**.
 
-### 🧠 Kennis (kan ik reproduceren)
+###  Kennis (kan ik reproduceren)
 
 - [ ] Ik kan de opbouw van een atoom benoemen (kern met protonen + neutronen, elektronenwolk).
 - [ ] Ik weet wat atoomnummer `Z`, massagetal `A` en nucleon betekenen.
@@ -1082,7 +1082,7 @@ Vink af wat je beheerst. Kun je iets niet zonder de gids? Dan ken je het nog nie
 - [ ] Ik ken de eigenschappen van α-, β- en γ-straling uit de vergelijkingstabel.
 - [ ] Ik ken de drie beschermingsmaatregelen: tijd, afstand, afscherming.
 
-### 💡 Begrip (kan ik uitleggen)
+###  Begrip (kan ik uitleggen)
 
 - [ ] Ik kan uitleggen waarom α intern gevaarlijker is dan extern (en γ andersom).
 - [ ] Ik snap het verband tussen `λ` en `t½`.
@@ -1092,7 +1092,7 @@ Vink af wat je beheerst. Kun je iets niet zonder de gids? Dan ken je het nog nie
 - [ ] Ik kan minstens één medische en één niet-medische toepassing uitleggen.
 - [ ] Ik kan benoemen welke achtergrondbronnen er zijn.
 
-### 🛠️ Toepassing (kan ik berekenen)
+###  Toepassing (kan ik berekenen)
 
 - [ ] Ik kan uit een nuclide het aantal protonen, neutronen en elektronen halen.
 - [ ] Ik kan een kernreactie balanceren en de ontbrekende kern vinden.
@@ -1107,7 +1107,7 @@ Vink af wat je beheerst. Kun je iets niet zonder de gids? Dan ken je het nog nie
 
 ---
 
-## 12. Geheugensteuntjes & Ezelsbruggetjes
+## 11. Geheugensteuntjes & Ezelsbruggetjes
 
 Handige trucjes om de stof snel terug te halen tijdens de toets.
 
@@ -1140,7 +1140,7 @@ Handige trucjes om de stof snel terug te halen tijdens de toets.
 
 ---
 
-## 13. Woordenlijst / Begrippenlijst
+## 12. Woordenlijst / Begrippenlijst
 
 Alle kernbegrippen op een rij, alfabetisch en in gewone taal. Handig om snel iets op te zoeken of jezelf te overhoren.
 
@@ -1183,6 +1183,3 @@ Alle kernbegrippen op een rij, alfabetisch en in gewone taal. Handig om snel iet
 | **Vervalconstante (`λ`)** | De kans per tijdseenheid dat een kern vervalt; `λ = ln2 / t½`. |
 
 ---
-
-> [!TIP]
-> **Succes met leren!** Werk de checklist in sectie 11 af, maak alle oefenopgaven uit sectie 10 minstens één keer zonder spieken, en herhaal de vergelijkingstabel (sectie 6) en formuletabel (sectie 4) vlak voor de toets. Dat dekt verreweg de meeste punten.
