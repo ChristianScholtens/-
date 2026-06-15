@@ -11,7 +11,7 @@
 
 ## Inhoudsopgave
 
-1. [inhoudsopgave](#1-Inhoudsopgave)
+1. [Inhoudsopgave](#1-Inhoudsopgave)
 2. [Leerdoelen & Verwachte Toetsstof](#2-leerdoelen--verwachte-toetsstof)
 3. [Kernconcepten](#3-kernconcepten)
 4. [Formule- & Groothedentabel](#4-formule---groothedentabel)
