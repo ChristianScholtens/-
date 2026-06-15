@@ -570,9 +570,9 @@ Na elke halfwaardetijd halveert het aantal kernen (en de activiteit). Dat geeft 
 ```mermaid
 xychart-beta
     title "Exponentieel verval"
-    x-axis ["0", " ", "  ", "   ", "1·t½", "    ", "     ", "      ", "2·t½", "       ", "        ", "         ", "3·t½", "          ", "           ", "            ", "4·t½", "             ", "              ", "               ", "5·t½"]
+    x-axis ["0", "0.5·t½", "1·t½", "1.5·t½", "2·t½", "2.5·t½", "3·t½", "3.5·t½", "4·t½", "4.5·t½", "5·t½"]
     y-axis "N (% van N0)" 0 --> 100
-    line [100, 84.1, 70.7, 59.5, 50, 42.0, 35.4, 29.7, 25, 21.0, 17.7, 14.9, 12.5, 10.5, 8.8, 7.4, 6.3, 5.3, 4.4, 3.7, 3.1]
+    line [100, 70.7, 50, 35.4, 25, 17.7, 12.5, 8.8, 6.3, 4.4, 3.1]
 ```
 
 Kenmerken: de grafiek **daalt steeds langzamer** maar bereikt nooit precies nul. Bij elke `t½` naar rechts is de hoogte **gehalveerd**.
