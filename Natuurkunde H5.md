@@ -4,17 +4,11 @@
 
 ---
 
-### ⏱️ Praktisch
-
-- **Geschatte leestijd (rustig doorlezen):** 60–75 minuten
-- **Inclusief oefenopgaven maken:** reken op 3–4 uur in totaal
-- **Aanrader:** verdeel over 2–3 sessies (concepten → formules/tabellen → opgaven)
-
 > [!TIP]
 > Lees een onderwerp, sla de gids dicht en schrijf de kernformule + één voorbeeld uit je hoofd op. Wat je niet kunt reproduceren, ken je nog niet. Toetsen testen vooral of je *zelf* kunt rekenen, niet of je het herkent.
 
 > [!TIP]
-> Houd je BINAS / formulekaart erbij. Veel constanten (zoals `e`, `u`, weegfactoren) en isotoopgegevens hoef je niet uit je hoofd te kennen — je moet ze wél snel kunnen opzoeken.
+> Houd je BINAS / formulekaart erbij. Veel constanten (zoals `e`, `u`, weegfactoren) en isotoopgegevens hoef je niet uit je hoofd te kennen je moet ze wél snel kunnen opzoeken.
 
 ---
 
