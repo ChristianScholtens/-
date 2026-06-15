@@ -31,7 +31,7 @@
 
 Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie lagen: *kennen* (uit je hoofd kunnen opdreunen), *kunnen* (toepassen in een berekening) en *begrijpen* (uitleggen waaróm iets zo werkt). De toets test ze alle drie, dus loop per onderdeel eerlijk na waar je staat.
 
-### ✅ Wat je moet KENNEN (reproductie)
+###  Wat je moet KENNEN (reproductie)
 
 - De opbouw van het atoom: kern (protonen + neutronen) en elektronenwolk.
 - De begrippen **atoomnummer (Z)**, **massagetal (A)**, **nucleon**, **isotoop**.
@@ -43,7 +43,7 @@ Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie l
 - De drie maatregelen voor **stralingsbescherming**: tijd, afstand, afscherming.
 - De eigenschappen van α-, β- en γ-straling (lading, dracht, doordringend en ioniserend vermogen).
 
-### ✅ Wat je moet KUNNEN (toepassing)
+###  Wat je moet KUNNEN (toepassing)
 
 - Uit een nuclidenotatie het aantal protonen, neutronen en elektronen halen.
 - **Kernreacties opstellen en balanceren** (behoud van massagetal én lading).
@@ -55,7 +55,7 @@ Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie l
 - **Dosis berekenen**: $D = \tfrac{E}{m}$ en $H = w_R \cdot D$.
 - Rekenen met de **afstandswet** (intensiteit $\sim \tfrac{1}{r^2}$).
 
-### ✅ Wat je moet BEGRIJPEN (inzicht)
+###  Wat je moet BEGRIJPEN (inzicht)
 
 - Waarom α-straling **intern** veel gevaarlijker is dan extern, en bij γ andersom.
 - Het verband tussen `λ` en `t½` (kleine `t½` → grote `λ` → snel verval).
@@ -64,7 +64,7 @@ Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie l
 - Hoe toepassingen werken (C-14-datering, PET-scan, bestraling, kerncentrale).
 - Het verschil tussen **deterministische** en **stochastische** effecten.
 
-### 📝 Soort vragen die je kunt verwachten
+### 📝Soort vragen die je kunt verwachten
 
 | Type vraag | Voorbeeld |
 |---|---|
@@ -75,7 +75,7 @@ Dit is wat je voor de toets in je vingers moet hebben. Het valt uiteen in drie l
 | **Grafiek aflezen/tekenen** | "Lees de halfwaardetijd af uit de grafiek." |
 | **Reken-met-eenheden** | "Reken 2,5 mSv om naar Sv." |
 
-### ⚠️ Typische HAVO 4-valkuilen (per onderwerp)
+###  Veel vorkomende valkuilen
 
 | Onderwerp | Veelgemaakte fout |
 |---|---|
@@ -567,24 +567,42 @@ Hier oefen je het rekenwerk dat op de toets het meeste punten oplevert.
 
 Na elke halfwaardetijd halveert het aantal kernen (en de activiteit). Dat geeft deze typische kromme:
 
-```
-  N (% van N0)
-100 |*
-    | *
- 90 |  *
-    |   *
- 75 |    *
-    |     *
- 50 |- - - - *
-    |          *
-    |            *
- 25 |- - - - - - - * 
-    |                 *
-12,5|- - - - - - - - - - - *
-    |                          *  *
-   0|____________________________________*__*__*___
-    0     1·t½    2·t½    3·t½    4·t½    5·t½   →  t
-```
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" width="100%" style="max-width:500px; background:transparent;">
+  <line x1="50" y1="150" x2="130" y2="150" stroke="gray" stroke-dasharray="4" stroke-width="1" />
+  <line x1="50" y1="200" x2="210" y2="200" stroke="gray" stroke-dasharray="4" stroke-width="1" />
+  <line x1="50" y1="225" x2="290" y2="225" stroke="gray" stroke-dasharray="4" stroke-width="1" />
+  
+  <line x1="130" y1="150" x2="130" y2="250" stroke="gray" stroke-dasharray="4" stroke-width="1" />
+  <line x1="210" y1="200" x2="210" y2="250" stroke="gray" stroke-dasharray="4" stroke-width="1" />
+  <line x1="290" y1="225" x2="290" y2="250" stroke="gray" stroke-dasharray="4" stroke-width="1" />
+
+  <line x1="50" y1="20" x2="50" y2="250" stroke="currentColor" stroke-width="2" />
+  <line x1="50" y1="250" x2="470" y2="250" stroke="currentColor" stroke-width="2" />
+  
+  <path d="M 45,30 L 50,20 L 55,30" fill="none" stroke="currentColor" stroke-width="2" />
+  <path d="M 460,245 L 470,250 L 460,255" fill="none" stroke="currentColor" stroke-width="2" />
+
+  <path d="M 50,50 C 90,120 110,140 130,150 S 180,190 210,200 S 270,220 290,225 S 350,235 370,237.5 S 430,242 450,243.75" fill="none" stroke="#ff4757" stroke-width="3" />
+
+  <circle cx="50" cy="50" r="4" fill="#ff4757" />
+  <circle cx="130" cy="150" r="4" fill="#ff4757" />
+  <circle cx="210" cy="200" r="4" fill="#ff4757" />
+  <circle cx="290" cy="225" r="4" fill="#ff4757" />
+
+  <text x="15" y="55" fill="currentColor" font-family="sans-serif" font-size="12">100</text>
+  <text x="25" y="154" fill="currentColor" font-family="sans-serif" font-size="12">50</text>
+  <text x="25" y="204" fill="currentColor" font-family="sans-serif" font-size="12">25</text>
+  <text x="15" y="229" fill="currentColor" font-family="sans-serif" font-size="12">12,5</text>
+  <text x="35" y="254" fill="currentColor" font-family="sans-serif" font-size="12">0</text>
+  <text x="45" y="15" fill="currentColor" font-family="sans-serif" font-size="12" font-weight="bold">N (%)</text>
+
+  <text x="120" y="270" fill="currentColor" font-family="sans-serif" font-size="12">1·t½</text>
+  <text x="200" y="270" fill="currentColor" font-family="sans-serif" font-size="12">2·t½</text>
+  <text x="280" y="270" fill="currentColor" font-family="sans-serif" font-size="12">3·t½</text>
+  <text x="360" y="270" fill="currentColor" font-family="sans-serif" font-size="12">4·t½</text>
+  <text x="440" y="270" fill="currentColor" font-family="sans-serif" font-size="12">5·t½</text>
+  <text x="480" y="254" fill="currentColor" font-family="sans-serif" font-size="12" font-weight="bold">t</text>
+</svg>
 
 Kenmerken: de grafiek **daalt steeds langzamer** maar bereikt nooit precies nul. Bij elke `t½` naar rechts is de hoogte **gehalveerd**.
 
