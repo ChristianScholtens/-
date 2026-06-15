@@ -567,42 +567,13 @@ Hier oefen je het rekenwerk dat op de toets het meeste punten oplevert.
 
 Na elke halfwaardetijd halveert het aantal kernen (en de activiteit). Dat geeft deze typische kromme:
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" width="100%" style="max-width:500px; background:transparent;">
-  <line x1="50" y1="150" x2="130" y2="150" stroke="gray" stroke-dasharray="4" stroke-width="1" />
-  <line x1="50" y1="200" x2="210" y2="200" stroke="gray" stroke-dasharray="4" stroke-width="1" />
-  <line x1="50" y1="225" x2="290" y2="225" stroke="gray" stroke-dasharray="4" stroke-width="1" />
-  
-  <line x1="130" y1="150" x2="130" y2="250" stroke="gray" stroke-dasharray="4" stroke-width="1" />
-  <line x1="210" y1="200" x2="210" y2="250" stroke="gray" stroke-dasharray="4" stroke-width="1" />
-  <line x1="290" y1="225" x2="290" y2="250" stroke="gray" stroke-dasharray="4" stroke-width="1" />
-
-  <line x1="50" y1="20" x2="50" y2="250" stroke="currentColor" stroke-width="2" />
-  <line x1="50" y1="250" x2="470" y2="250" stroke="currentColor" stroke-width="2" />
-  
-  <path d="M 45,30 L 50,20 L 55,30" fill="none" stroke="currentColor" stroke-width="2" />
-  <path d="M 460,245 L 470,250 L 460,255" fill="none" stroke="currentColor" stroke-width="2" />
-
-  <path d="M 50,50 C 90,120 110,140 130,150 S 180,190 210,200 S 270,220 290,225 S 350,235 370,237.5 S 430,242 450,243.75" fill="none" stroke="#ff4757" stroke-width="3" />
-
-  <circle cx="50" cy="50" r="4" fill="#ff4757" />
-  <circle cx="130" cy="150" r="4" fill="#ff4757" />
-  <circle cx="210" cy="200" r="4" fill="#ff4757" />
-  <circle cx="290" cy="225" r="4" fill="#ff4757" />
-
-  <text x="15" y="55" fill="currentColor" font-family="sans-serif" font-size="12">100</text>
-  <text x="25" y="154" fill="currentColor" font-family="sans-serif" font-size="12">50</text>
-  <text x="25" y="204" fill="currentColor" font-family="sans-serif" font-size="12">25</text>
-  <text x="15" y="229" fill="currentColor" font-family="sans-serif" font-size="12">12,5</text>
-  <text x="35" y="254" fill="currentColor" font-family="sans-serif" font-size="12">0</text>
-  <text x="45" y="15" fill="currentColor" font-family="sans-serif" font-size="12" font-weight="bold">N (%)</text>
-
-  <text x="120" y="270" fill="currentColor" font-family="sans-serif" font-size="12">1·t½</text>
-  <text x="200" y="270" fill="currentColor" font-family="sans-serif" font-size="12">2·t½</text>
-  <text x="280" y="270" fill="currentColor" font-family="sans-serif" font-size="12">3·t½</text>
-  <text x="360" y="270" fill="currentColor" font-family="sans-serif" font-size="12">4·t½</text>
-  <text x="440" y="270" fill="currentColor" font-family="sans-serif" font-size="12">5·t½</text>
-  <text x="480" y="254" fill="currentColor" font-family="sans-serif" font-size="12" font-weight="bold">t</text>
-</svg>
+```mermaid
+xychart-beta
+    title "Exponentieel verval"
+    x-axis ["0", "", "", "", "1·t½", "", "", "", "2·t½", "", "", "", "3·t½", "", "", "", "4·t½", "", "", "", "5·t½"]
+    y-axis "N (% van N0)" 0 --> 100
+    line [100, 84.1, 70.7, 59.5, 50, 42.0, 35.4, 29.7, 25, 21.0, 17.7, 14.9, 12.5, 10.5, 8.8, 7.4, 6.3, 5.3, 4.4, 3.7, 3.1]
+```
 
 Kenmerken: de grafiek **daalt steeds langzamer** maar bereikt nooit precies nul. Bij elke `t½` naar rechts is de hoogte **gehalveerd**.
 
