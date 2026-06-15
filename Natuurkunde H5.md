@@ -854,199 +854,158 @@ Twaalf opgaven met volledige uitwerking, oplopend van makkelijk naar toetsniveau
 
 ## 10. Oefenopgaven
 
-Zeventien opgaven, oplopend in moeilijkheid. Maak ze eerst helemaal zelf — zonder spieken. De volledige uitwerkingen staan onder de scheidingslijn **--- ANTWOORDEN ---**.
+Zeventien opgaven, oplopend in moeilijkheid. Maak ze eerst helemaal zelf — zonder spieken. Klik op de vraag om de uitwerking en het antwoord uit te vouwen.
 
-**Opgave 1** *(kernopbouw)* — Geef voor een neutraal atoom radon-222, $^{222}_{86}\text{Rn}$, het aantal protonen, neutronen en elektronen.
-
-**Opgave 2** *(isotopen)* — Gegeven vier nucliden: $^{16}_{8}\text{O}$, $^{17}_{8}\text{O}$, $^{14}_{7}\text{N}$, $^{18}_{8}\text{O}$. Welke zijn isotopen van elkaar? Leg uit.
-
-**Opgave 3** *(kernreactie, α)* — Polonium-218, $^{218}_{84}\text{Po}$, vervalt via α-verval. Geef de complete reactievergelijking.
-
-**Opgave 4** *(kernreactie, β⁻)* — Jood-131, $^{131}_{53}\text{I}$, vervalt via β⁻-verval. Geef de reactievergelijking.
-
-**Opgave 5** *(kernreactie, β⁺)* — Stikstof-13, $^{13}_{7}\text{N}$, vervalt via β⁺-verval. Geef de reactievergelijking.
-
-**Opgave 6** *(vervalsoort)* — Bepaal de vervalsoort en het ontbrekende deeltje: $^{234}_{90}\text{Th} \rightarrow\, ^{234}_{91}\text{Pa} +\, ?$
-
-**Opgave 7** *(halfwaardetijd)* — Een bron heeft `t½ = 4,0 dagen` en een beginactiviteit van `3,2·10⁶ Bq`. Bereken de activiteit na 12 dagen.
-
-**Opgave 8** *(halfwaardetijd, tijd zoeken)* — Een monster daalt in activiteit van 800 Bq naar 25 Bq. De halfwaardetijd is 6,0 minuten. Hoe lang heeft dit geduurd?
-
-**Opgave 9** *(vervalformule, niet-heel)* — Kobalt-60 heeft `t½ = 5,27 jaar` en `A₀ = 2,0·10⁵ Bq`. Bereken de activiteit na 8,0 jaar.
-
-**Opgave 10** *(vervalconstante)* — Bereken de vervalconstante `λ` (in s⁻¹) van jood-131 met `t½ = 8,0 dagen`.
-
-**Opgave 11** *(A = λN)* — Een monster bevat `2,5·10¹⁵` atomen van een isotoop met `λ = 3,0·10⁻⁸ s⁻¹`. Bereken de activiteit.
-
-**Opgave 12** *(geabsorbeerde dosis)* — Weefsel van 0,20 kg neemt `1,2·10⁻³ J` aan stralingsenergie op. Bereken de geabsorbeerde dosis.
-
-**Opgave 13** *(equivalente dosis)* — Een orgaan ontvangt een geabsorbeerde dosis van 8,0 mGy aan α-straling. Bereken de equivalente dosis. *(wR(α) = 20)*
-
-**Opgave 14** *(afstandswet)* — Op 1,5 m van een puntbron is het dosistempo 90 µSv/h. Wat is het dosistempo op 4,5 m?
-
-**Opgave 15** *(C-14-datering)* — Een stuk bot bevat nog 25% van de oorspronkelijke C-14. De halfwaardetijd is 5730 jaar. Hoe oud is het bot?
-
-**Opgave 16** *(inzicht)* — Leg uit waarom een α-bron die je inslikt veel gevaarlijker is dan dezelfde α-bron die je in je hand houdt.
-
-**Opgave 17** *(toetsniveau, meerdere stappen)* — Een patiënt krijgt technetium-99m toegediend met een beginactiviteit van `6,0·10⁸ Bq`. De halfwaardetijd is 6,0 uur.
-&nbsp;&nbsp;**a)** Bereken de activiteit na 24 uur.
-&nbsp;&nbsp;**b)** Na hoeveel uur is de activiteit gedaald tot `7,5·10⁷ Bq`?
-
----
-
-### --- ANTWOORDEN ---
-
----
-
-#### Antwoord 1
+<details>
+<summary><b>Opgave 1</b> <i>(kernopbouw)</i> — Geef voor een neutraal atoom radon-222, ${}^{222}_{86}\text{Rn}$, het aantal protonen, neutronen en elektronen.</summary>
 
 1. Protonen = `Z = 86`.
 2. Neutronen = `A − Z = 222 − 86 = 136`.
 3. Elektronen = protonen = `86` (neutraal atoom).
 
 > **✅ Antwoord:** 86 protonen, 136 neutronen, 86 elektronen.
+</details>
 
----
+<details>
+<summary><b>Opgave 2</b> <i>(isotopen)</i> — Gegeven vier nucliden: ${}^{16}_{8}\text{O}$, ${}^{17}_{8}\text{O}$, ${}^{14}_{7}\text{N}$, ${}^{18}_{8}\text{O}$. Welke zijn isotopen van elkaar? Leg uit.</summary>
 
-#### Antwoord 2
+Isotopen hebben hetzelfde atoomnummer `Z`. De drie zuurstofnucliden hebben allemaal `Z = 8`: ${}^{16}_{8}\text{O}$, ${}^{17}_{8}\text{O}$ en ${}^{18}_{8}\text{O}$. Stikstof-14 heeft `Z = 7` en hoort er niet bij.
 
-Isotopen hebben hetzelfde atoomnummer `Z`. De drie zuurstofnucliden hebben allemaal `Z = 8`: $^{16}_{8}\text{O}$, $^{17}_{8}\text{O}$ en $^{18}_{8}\text{O}$. Stikstof-14 heeft `Z = 7` en hoort er niet bij.
+> **✅ Antwoord:** ${}^{16}_{8}\text{O}$, ${}^{17}_{8}\text{O}$ en ${}^{18}_{8}\text{O}$ zijn isotopen van elkaar; ${}^{14}_{7}\text{N}$ niet.
+</details>
 
-> **✅ Antwoord:** $^{16}_{8}\text{O}$, $^{17}_{8}\text{O}$ en $^{18}_{8}\text{O}$ zijn isotopen van elkaar; $^{14}_{7}\text{N}$ niet.
-
----
-
-#### Antwoord 3
+<details>
+<summary><b>Opgave 3</b> <i>(kernreactie, α)</i> — Polonium-218, ${}^{218}_{84}\text{Po}$, vervalt via α-verval. Geef de complete reactievergelijking.</summary>
 
 1. Massagetal: `218 − 4 = 214`.
 2. Lading: `84 − 2 = 82` → lood (Pb).
 
-> **✅ Antwoord:** $^{218}_{84}\text{Po} \rightarrow\, ^{214}_{82}\text{Pb} +\, ^{4}_{2}\text{He}$
+> **✅ Antwoord:** $${}^{218}_{84}\text{Po} \;\rightarrow\; {}^{214}_{82}\text{Pb} \;+\; {}^{4}_{2}\text{He}$$
+</details>
 
----
-
-#### Antwoord 4
+<details>
+<summary><b>Opgave 4</b> <i>(kernreactie, β⁻)</i> — Jood-131, ${}^{131}_{53}\text{I}$, vervalt via β⁻-verval. Geef de reactievergelijking.</summary>
 
 1. Massagetal blijft 131.
 2. Lading: `53 + 1 = 54` → xenon (Xe).
 
-> **✅ Antwoord:** $^{131}_{53}\text{I} \rightarrow\, ^{131}_{54}\text{Xe} +\, ^{\;\;0}_{-1}\text{e}$
+> **✅ Antwoord:** $${}^{131}_{53}\text{I} \;\rightarrow\; {}^{131}_{54}\text{Xe} \;+\; {}^{\;\;0}_{-1}\text{e}$$
+</details>
 
----
-
-#### Antwoord 5
+<details>
+<summary><b>Opgave 5</b> <i>(kernreactie, β⁺)</i> — Stikstof-13, ${}^{13}_{7}\text{N}$, vervalt via β⁺-verval. Geef de reactievergelijking.</summary>
 
 1. Massagetal blijft 13.
 2. Lading: `7 − 1 = 6` → koolstof (C).
 
-> **✅ Antwoord:** $^{13}_{7}\text{N} \rightarrow\, ^{13}_{6}\text{C} +\, ^{0}_{+1}\text{e}$
+> **✅ Antwoord:** $${}^{13}_{7}\text{N} \;\rightarrow\; {}^{13}_{6}\text{C} \;+\; {}^{0}_{+1}\text{e}$$
+</details>
 
----
-
-#### Antwoord 6
+<details>
+<summary><b>Opgave 6</b> <i>(vervalsoort)</i> — Bepaal de vervalsoort en het ontbrekende deeltje: ${}^{234}_{90}\text{Th} \;\rightarrow\; {}^{234}_{91}\text{Pa} \;+\; ?$</summary>
 
 1. Massagetal van het deeltje: `234 − 234 = 0`.
-2. Lading: `90 − 91 = −1` → een elektron $^{\;\;0}_{-1}\text{e}$.
+2. Lading: `90 − 91 = −1` → een elektron ${}^{\;\;0}_{-1}\text{e}$.
 3. `Z` stijgt → β⁻-verval.
 
-> **✅ Antwoord:** β⁻-verval; het deeltje is $^{\;\;0}_{-1}\text{e}$.
+> **✅ Antwoord:** β⁻-verval; het deeltje is ${}^{\;\;0}_{-1}\text{e}$.
+</details>
 
----
-
-#### Antwoord 7
+<details>
+<summary><b>Opgave 7</b> <i>(halfwaardetijd)</i> — Een bron heeft `t½ = 4,0 dagen` en een beginactiviteit van `3,2·10⁶ Bq`. Bereken de activiteit na 12 dagen.</summary>
 
 1. `n = t / t½ = 12 / 4,0 = 3` halfwaardetijden.
 2. `(½)³ = 1/8`.
 3. `A = 3,2·10⁶ / 8 = 4,0·10⁵ Bq`.
 
 > **✅ Antwoord:** 4,0·10⁵ Bq
+</details>
 
----
-
-#### Antwoord 8
+<details>
+<summary><b>Opgave 8</b> <i>(halfwaardetijd, tijd zoeken)</i> — Een monster daalt in activiteit van 800 Bq naar 25 Bq. De halfwaardetijd is 6,0 minuten. Hoe lang heeft dit geduurd?</summary>
 
 1. Verhouding: `800 / 25 = 32 = 2⁵`, dus `25 = 800 × (½)⁵`.
 2. `n = 5` halfwaardetijden.
 3. `t = 5 × 6,0 = 30 min`.
 
 > **✅ Antwoord:** 30 minuten
+</details>
 
----
-
-#### Antwoord 9
+<details>
+<summary><b>Opgave 9</b> <i>(vervalformule, niet-heel)</i> — Kobalt-60 heeft `t½ = 5,27 jaar` en `A₀ = 2,0·10⁵ Bq`. Bereken de activiteit na 8,0 jaar.</summary>
 
 1. `t / t½ = 8,0 / 5,27 = 1,518`.
 2. `(½)^1,518 = 0,349`.
 3. `A = 2,0·10⁵ × 0,349 = 6,98·10⁴ Bq`.
 
 > **✅ Antwoord:** ≈ 7,0·10⁴ Bq
+</details>
 
----
-
-#### Antwoord 10
+<details>
+<summary><b>Opgave 10</b> <i>(vervalconstante)</i> — Bereken de vervalconstante `λ` (in s⁻¹) van jood-131 met `t½ = 8,0 dagen`.</summary>
 
 1. `t½` in seconden: `8,0 × 86 400 = 6,912·10⁵ s`.
 2. $\lambda = \dfrac{0{,}693}{6{,}912\cdot10^{5}} = 1{,}00\cdot10^{-6}\ \text{s}^{-1}$.
 
 > **✅ Antwoord:** ≈ 1,0·10⁻⁶ s⁻¹
+</details>
 
----
-
-#### Antwoord 11
+<details>
+<summary><b>Opgave 11</b> <i>(A = λN)</i> — Een monster bevat `2,5·10¹⁵` atomen van een isotoop met `λ = 3,0·10⁻⁸ s⁻¹`. Bereken de activiteit.</summary>
 
 1. `A = λ·N = 3,0·10⁻⁸ × 2,5·10¹⁵`.
 2. `A = 7,5·10⁷ Bq`.
 
 > **✅ Antwoord:** 7,5·10⁷ Bq
+</details>
 
----
-
-#### Antwoord 12
+<details>
+<summary><b>Opgave 12</b> <i>(geabsorbeerde dosis)</i> — Weefsel van 0,20 kg neemt `1,2·10⁻³ J` aan stralingsenergie op. Bereken de geabsorbeerde dosis.</summary>
 
 1. `D = E / m = 1,2·10⁻³ / 0,20`.
 2. `D = 6,0·10⁻³ Gy`.
 
 > **✅ Antwoord:** 6,0·10⁻³ Gy = 6,0 mGy
+</details>
 
----
+<details>
+<summary><b>Opgave 13</b> <i>(equivalente dosis)</i> — Een orgaan ontvangt een geabsorbeerde dosis van 8,0 mGy aan α-straling. Bereken de equivalente dosis. <i>(wR(α) = 20)</i></summary>
 
-#### Antwoord 13
-
-1. `H = wR · D = 20 × 8,0`.
+1. `H = wR \cdot D = 20 \times 8,0`.
 2. `H = 160 mSv`.
 
 > **✅ Antwoord:** 160 mSv
+</details>
 
----
+<details>
+<summary><b>Opgave 14</b> <i>(afstandswet)</i> — Op 1,5 m van een puntbron is het dosistempo 90 µSv/h. Wat is het dosistempo op 4,5 m?</summary>
 
-#### Antwoord 14
-
-1. `I₁·r₁² = I₂·r₂²`.
+1. $I_1 \cdot r_1^{\,2} = I_2 \cdot r_2^{\,2}$
 2. `I₂ = 90 × (1,5 / 4,5)² = 90 × (1/3)² = 90 × 1/9`.
 3. `I₂ = 10 µSv/h`.
 
 > **✅ Antwoord:** 10 µSv/h
+</details>
 
----
-
-#### Antwoord 15
+<details>
+<summary><b>Opgave 15</b> <i>(C-14-datering)</i> — Een stuk bot bevat nog 25% van de oorspronkelijke C-14. De halfwaardetijd is 5730 jaar. Hoe oud is het bot?</summary>
 
 1. `25% = 1/4 = (½)²` → `n = 2` halfwaardetijden.
 2. `t = 2 × 5730 = 11 460 jaar`.
 
 > **✅ Antwoord:** ≈ 11 000 jaar (1,1·10⁴ jaar)
+</details>
 
----
-
-#### Antwoord 16
+<details>
+<summary><b>Opgave 16</b> <i>(inzicht)</i> — Leg uit waarom een α-bron die je inslikt veel gevaarlijker is dan dezelfde α-bron die je in je hand houdt.</summary>
 
 α-straling heeft een **zeer kort bereik** en wordt buiten het lichaam al tegengehouden door de dode buitenste huidlaag — extern dus weinig gevaarlijk. Slik je de bron in, dan zit er **geen beschermende laag** tussen de bron en levend weefsel. Alle **sterk ioniserende** energie (weegfactor `wR = 20`) wordt direct in de cellen afgegeven, wat veel schade aan moleculen en DNA veroorzaakt.
 
 > **✅ Antwoord:** Intern wordt alle sterk ioniserende α-energie in levend weefsel afgegeven (geen huid als bescherming), waardoor de schade veel groter is dan extern.
+</details>
 
----
-
-#### Antwoord 17
+<details>
+<summary><b>Opgave 17</b> <i>(toetsniveau, meerdere stappen)</i> — Een patiënt krijgt technetium-99m toegediend met een beginactiviteit van `6,0·10⁸ Bq`. De halfwaardetijd is 6,0 uur.<br>&nbsp;&nbsp;<b>a)</b> Bereken de activiteit na 24 uur.<br>&nbsp;&nbsp;<b>b)</b> Na hoeveel uur is de activiteit gedaald tot `7,5·10⁷ Bq`?</summary>
 
 **a)**
 1. `n = 24 / 6,0 = 4` halfwaardetijden.
@@ -1061,18 +1020,19 @@ Isotopen hebben hetzelfde atoomnummer `Z`. De drie zuurstofnucliden hebben allem
 3. `t = 3 × 6,0 = 18 uur`.
 
 > **✅ Antwoord b):** 18 uur
+</details>
 
 ---
 
-## 10. Toetsvoorbereiding Checklist
+## 11. Toetsvoorbereiding Checklist
 
 Vink af wat je beheerst. Kun je iets niet zonder de gids? Dan ken je het nog niet — terug naar dat onderwerp. Gesorteerd op **Kennis → Begrip → Toepassing**.
 
-###  Kennis (kan ik reproduceren)
+### Kennis (kan ik reproduceren)
 
 - [ ] Ik kan de opbouw van een atoom benoemen (kern met protonen + neutronen, elektronenwolk).
 - [ ] Ik weet wat atoomnummer `Z`, massagetal `A` en nucleon betekenen.
-- [ ] Ik kan de nuclidenotatie $^{A}_{Z}\text{X}$ lezen.
+- [ ] Ik kan de nuclidenotatie ${}^{A}_{Z}\text{X}$ lezen.
 - [ ] Ik ken de vier vervalsoorten en welk deeltje ze uitzenden.
 - [ ] Ik weet wat er met `A` en `Z` gebeurt bij α, β⁻, β⁺ en γ.
 - [ ] Ik ken de definitie van activiteit en de eenheid becquerel.
@@ -1081,7 +1041,7 @@ Vink af wat je beheerst. Kun je iets niet zonder de gids? Dan ken je het nog nie
 - [ ] Ik ken de eigenschappen van α-, β- en γ-straling uit de vergelijkingstabel.
 - [ ] Ik ken de drie beschermingsmaatregelen: tijd, afstand, afscherming.
 
-###  Begrip (kan ik uitleggen)
+### Begrip (kan ik uitleggen)
 
 - [ ] Ik kan uitleggen waarom α intern gevaarlijker is dan extern (en γ andersom).
 - [ ] Ik snap het verband tussen `λ` en `t½`.
@@ -1091,22 +1051,22 @@ Vink af wat je beheerst. Kun je iets niet zonder de gids? Dan ken je het nog nie
 - [ ] Ik kan minstens één medische en één niet-medische toepassing uitleggen.
 - [ ] Ik kan benoemen welke achtergrondbronnen er zijn.
 
-###  Toepassing (kan ik berekenen)
+### Toepassing (kan ik berekenen)
 
 - [ ] Ik kan uit een nuclide het aantal protonen, neutronen en elektronen halen.
 - [ ] Ik kan een kernreactie balanceren en de ontbrekende kern vinden.
 - [ ] Ik kan de vervalsoort herkennen uit een reactie.
 - [ ] Ik kan rekenen met een heel aantal halfwaardetijden (halveren).
-- [ ] Ik kan de vervalformule $N = N_0 (\tfrac{1}{2})^{t/t_{1/2}}$ toepassen, ook bij niet-hele aantallen.
+- [ ] Ik kan de vervalformule $N = N_0 \cdot (\tfrac{1}{2})^{t/t_{1/2}}$ toepassen, ook bij niet-hele aantallen.
 - [ ] Ik kan de tijd terugrekenen (met machten van ½ of met logaritmen).
 - [ ] Ik kan `λ` berekenen en `A = λN` toepassen (met juiste tijdseenheid).
 - [ ] Ik kan een vervalgrafiek aflezen en tekenen.
-- [ ] Ik kan `D = E/m` en `H = wR·D` berekenen.
-- [ ] Ik kan de afstandswet $I_1 r_1^2 = I_2 r_2^2$ toepassen.
+- [ ] Ik kan $D = \tfrac{E}{m}$ en $H = w_R \cdot D$ berekenen.
+- [ ] Ik kan de afstandswet $I_1 \cdot r_1^{\,2} = I_2 \cdot r_2^{\,2}$ toepassen.
 
 ---
 
-## 11. Geheugensteuntjes & Ezelsbruggetjes
+## 12. Geheugensteuntjes & Ezelsbruggetjes
 
 Handige trucjes om de stof snel terug te halen tijdens de toets.
 
@@ -1139,7 +1099,7 @@ Handige trucjes om de stof snel terug te halen tijdens de toets.
 
 ---
 
-## 12. Woordenlijst / Begrippenlijst
+## 13. Woordenlijst / Begrippenlijst
 
 Alle kernbegrippen op een rij, alfabetisch en in gewone taal. Handig om snel iets op te zoeken of jezelf te overhoren.
 
@@ -1179,6 +1139,4 @@ Alle kernbegrippen op een rij, alfabetisch en in gewone taal. Handig om snel iet
 | **Sievert (Sv)** | Eenheid van equivalente en effectieve dosis; maat voor stralingsschade. |
 | **Stochastisch effect** | Stralingseffect zonder drempel waarbij de kans (niet de ernst) toeneemt met de dosis, bijv. kanker. |
 | **Stralingsweegfactor (`wR`)** | Getal dat aangeeft hoe schadelijk een stralingssoort is (α = 20, β = γ = 1). |
-| **Vervalconstante (`λ`)** | De kans per tijdseenheid dat een kern vervalt; `λ = ln2 / t½`. |
-
----
+| **Vervalconstante (`λ`)** | De kans per tijdseenheid dat een kern vervalt; `λ = \ln 2 / t½`. |
