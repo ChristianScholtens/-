@@ -1,9 +1,7 @@
 # 📘 Studiegids — Ioniserende Straling
 
 **Hoofdstuk 5 · HAVO 4 · Natuurkunde**
-**Methode:** Newton (Thieme Meulenhoff) — versie 7.1
-
-> Deze gids dekt de volledige stof van Hoofdstuk 5. Werk hem van boven naar beneden door, maar gebruik de inhoudsopgave om snel naar een onderwerp te springen. Aan het eind staan oefenopgaven mét uitwerkingen en een afvink-checklist voor de toets.
+**Methode:** Newton
 
 ---
 
