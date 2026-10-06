@@ -16,6 +16,7 @@ title: Samenvattingen.
   *  [[Egidiuslied]] – *Klaaglied & elegie*
 
 ### 💻 Informatica
-*  **[[Toetsweek 1/Informatica/Kennen & Kunnen|Kennen & Kunnen (Leerdoelen & Begrippen)]]**
+* 🎯 **[[Toetsweek 1/Informatica/Kennen & Kunnen|Kennen & Kunnen (Leerdoelen & Begrippen)]]**
+* 📄 **[[Toetsweek 1/Informatica/Samenvatting PDF|Samenvatting (Originele PDF)]]**
 
 ---

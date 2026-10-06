@@ -7,9 +7,9 @@ aliases:
 
 # 💻 Samenvatting Toetsstof TP1 Informatica
 
-> [!INFO] Originele PDF
-> ![[Informatica Samenvatting.pdf]]
-> *Als de viewer hierboven niet laadt, kun je het bestand [hier downloaden/openen](Informatica%20Samenvatting.pdf).*
+> [!INFO] Origineel PDF Document
+> Wil je het originele PDF-document inzien of downloaden?  
+> 👉 **[[Toetsweek 1/Informatica/Samenvatting PDF|Klik hier om de volledige PDF te bekijken (met viewer)]]** of **<a href="./Informatica-Samenvatting.pdf" target="_blank">download het bestand direct</a>**.
 
 ---
 
