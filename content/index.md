@@ -17,5 +17,3 @@ title: Samenvattingen.
 
 ### 💻 Informatica
 * 📄 **[[Toetsweek 1/Informatica/Samenvatting PDF|Samenvatting (PDF)]]**
-
----
