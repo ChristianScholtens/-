@@ -6,7 +6,7 @@ title: Samenvattingen.
 ## 📚 Toetsweek 1
 
 ### 🇳🇱 Nederlands
-*  **[[Toetsweek 1/Nederlands/Kennen & Kunnen|Kennen & Kunnen (Leerdoelen & Begrippen)]]**
+*  **[[Toetsweek 1/Nederlands/Kennen & Kunnen|Kennen & Kunnen]]**
       -  [[Karel ende Elegast]] | Voorhoofse Karelroman
       -  [[Reinaert de Vos]] | Satire
       *  [[Beatrijs]] | Mariamirakel 
