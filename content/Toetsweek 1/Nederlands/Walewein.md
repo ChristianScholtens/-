@@ -49,6 +49,6 @@ aliases:
 
 * **Kettingqueeste (ruiltocht)**: Typisch sprookjesmotief waarin de held van de ene opdracht in de andere belandt (A wil B, maar B wil C, die D wil).
 
-* **Tegenhanger van de voorhoofse roman**: Waar in [[Karel ende Elegast]] brute trouw en strijd centraal staan, draait het in Walewein om verfijnde hoofsheid en respect voor vrouwen. (Zie ook [[index|Kennen & Kunnen]]).
+* **Tegenhanger van de voorhoofse roman**: Waar in [[Karel ende Elegast]] brute trouw en strijd centraal staan, draait het in Walewein om verfijnde hoofsheid en respect voor vrouwen. (Zie ook [[Toetsweek 1/Nederlands/Kennen & Kunnen|Kennen & Kunnen]]).
 
 * **Auteurs**: Geschreven door **Penninc** (die twee derde voltooide) en rond 1260 afgemaakt door **Pieter Vostaert**.
