@@ -4,6 +4,7 @@ aliases:
   - Kennen & Kunnen
 ---
 
+
 #### 1. Je weet hoe de **literatuurgeschiedenis** een aanvulling is op de algemene geschiedenis.
 De literatuurgeschiedenis is een aanvulling op de algemene geschiedenis, doordat de algemene geschiedenis zich vooral richt op feiten, oorlogen en grote gebeurtenissen, terwijl de literatuurgeschiedenis laat zien wat de denkbeelden van mensen waren en hoe zij hun leven destijds vulden.
 #### 2. Je kunt uitleggen dat men in verschillende tijden anders naar de geschiedenis keek. (perspectief)
