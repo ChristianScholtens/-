@@ -70,14 +70,25 @@ Een Arthurroman is een hoofse middeleeuwse ridderroman, waarin de individuele zo
 Een hoofse roman is een type middeleeuwse ridderroman waarin de ideale omgangsvormen en de 'hoofsheid' ([beleefdheid](https://nl.wikipedia.org/wiki/Beleefdheid)) van het ridderlijke hof centraal staan.
 #### 26. Voorhoofs.
 Een voorhoofse roman is een type middeleeuwse ridderroman waarin trouw aan de leenheer, brute kracht, strijd en trouw aan God centraal staan.
+
+| Kenmerk | Karelroman (Voorhoofs) | Arthurroman (Hoofs) |
+| :--- | :--- | :--- |
+| **Periode** | Vroege / Hoge Middeleeuwen (~tot 1200) | Hoge & Late Middeleeuwen (~vanaf 1200) |
+| **Centrale vorst** | **Karel de Grote** (historische koning/keizer) | **Koning Arthur** (mythische koning van de Ronde Tafel) |
+| **Belangrijkste deugden** | Fysieke kracht, dapperheid, trouw aan leenheer | Zelfbeheersing, hoofsheid (beleefdheid), respect, trouw aan de dame |
+| **Rol van de vrouw** | Ondergeschikt, passief, vaak ruw behandeld | Centraal, hooggeacht; inspiratie voor ridderlijke queeste (hoofse liefde) |
+| **Sfeer & verhaallijn** | Harde oorlogen, veldslagen, feodale conflicten | Individuele zoektocht (queeste), avontuur, magie, mystiek (de Graal) |
+| **Doel van de ridder** | Leenheer en God dienen, vijanden doden | Zichzelf bewijzen als beschaafd en deugdzaam ridder |
+| **Typisch voorbeeld** | *[[Karel ende Elegast]]* | *Walewein*, *Ferguut*, *Lancelot* |
+
 #### 27. Je kunt uitleggen dat de hoofse cultuur als het begin van de westerse beschaving wordt gezien.
 De hoofse cultuur wordt gezien als het begin van de westerse beschaving omdat het de overgang markeerde van ruw, middeleeuws machtsvertoon naar verfijnde sociale omgangsvormen, zelfbeheersing en respect.
 #### 28. Je weet de rol van de vrouw in de middeleeuwse literatuur.
 De rol van de vrouw in de middeleeuwse literatuur was heel best groot. Vrouwen waren krachtige personages in verhalen, werkten als invloedrijke schrijvers en als opdrachtgevers.
 #### 29. Je kunt deze rol uitleggen aan de hand van Beatrijs en Mariken van Nimwegen.
 In beide verhalen hebben vrouwen de hoofdrol in een moreel verhaal (exempel) over zonde en vergeving:
-- **Beatrijs:** Verlaat het klooster uit aardse liefde (zonde), maar wordt gered omdat ze trouw blijft bidden tot Maria.
-- **Mariken van Nimwegen:** Leeft jarenlang met de duivel, maar krijgt door diep berouw en zware boetedoening alsnog vergeving van God.
+- **[[Beatrijs]]:** Verlaat het klooster uit aardse liefde (zonde), maar wordt gered omdat ze trouw blijft bidden tot Maria. Lees [[Beatrijs]].
+- **[[Mariken van Nimwegen]]:** Leeft jarenlang met de duivel, maar krijgt door diep berouw en zware boetedoening alsnog vergeving van God. Lees [[Mariken van Nimwegen]].
 Ze laten zien dat de vrouw weliswaar vatbaar is voor verleiding (zoals Eva), maar door oprecht berouw en toewijding altijd gered kan worden (door Maria/God).
 #### 30. Exempel.
 Een exempel is een voorbeeld, maar een exempel is ook een kort, stichtelijk verhaal uit de middeleeuwen.
@@ -105,7 +116,8 @@ Een rederijkerskamer is een laatmiddeleeuws burgerlijk genootschap waarin men zi
 #### 38. Allegorie.
 Een **allegorie** is een verhaal of gedicht waarin een abstract begrip of idee in zijn geheel wordt voorgesteld als een zichtbaar symbool of persoon.
 #### 39. Je kunt uitleggen dat Elckerlyc een allegorie is en je weet welke vrienden hij vraagt om mee te gaan naar de dood.
-**Elckerlyc** ('iedereen') krijgt van de Dood te horen dat hij voor God moet verschijnen.
+Lees [[Elckerlyc]].
+**[[Elckerlyc]]** ('iedereen') krijgt van de Dood te horen dat hij voor God moet verschijnen.
 - **Gezelschap** (vrienden) en **Maagschap** (familie) haken direct af.
 - **Bezit** (rijkdom) weigert en lacht hem uit.
 - **Schoonheid, Kracht, Wijsheid** en **Zintuigen** verlaten hem bij de rand van het graf.
