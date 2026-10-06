@@ -46,7 +46,7 @@ Lees [[Karel ende Elegast]].
 #### 21. Je weet het thema van [[Karel ende Elegast]].
 Lees [[Karel ende Elegast]].
 #### 22. Feodaal stelsel.
-Het **feodaal stelsel** is ==een middeleeuwse== manier van besturen waarbij **grond en macht** werden geruild voor **bescherming en trouw**.
+Het **feodaal stelsel** is een middeleeuwse manier van besturen waarbij **grond en macht** werden geruild voor **bescherming en trouw**.
 ```mermaid
 flowchart TD
     A(✝️ God) -->|Land| B[👑 Koning]

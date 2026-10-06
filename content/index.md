@@ -7,15 +7,15 @@ title: Samenvattingen.
 
 ### 🇳🇱 Nederlands
 *  **[[Toetsweek 1/Nederlands/Kennen & Kunnen|Kennen & Kunnen]]**
-	  *  [[Karel ende Elegast]] – *Voorhoofse ridderroman (Karelepos)*
-	  *  [[Reinaert de Vos]] – *Dierenepos & satire*
-	  *  [[Beatrijs]] – *Mariamirakel & exempel*
-	  *  [[Walewein]] – *Hoofse Arthurroman (kettingqueeste)*
-	  *  [[Elckerlyc]] – *Moraliteit & allegorie*
-	  *  [[Mariken van Nimwegen]] – *Mirakelspel*
-	  *  [[Egidiuslied]] – *Klaaglied & elegie*
+	  *  [[Karel ende Elegast]] 
+	  *  [[Reinaert de Vos]]
+	  *  [[Beatrijs]]
+	  *  [[Walewein]] 
+	  *  [[Elckerlyc]] 
+	  *  [[Mariken van Nimwegen]]
+	  *  [[Egidiuslied]]
 
 ### 💻 Informatica
-* 📄 **[[Toetsweek 1/Informatica/Samenvatting PDF|Samenvatting (Originele PDF)]]**
+* 📄 **[[Toetsweek 1/Informatica/Samenvatting PDF|Samenvatting]]**
 
 ---
