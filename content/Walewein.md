@@ -8,7 +8,7 @@ aliases:
 ## 1. Belangrijkste Personages
 
 * **Walewein (Gawain)**: De volmaakte hoofse ridder van koning Arthurs Ronde Tafel. Uitermate hoffelijk, dapper, vroom, spreekt altijd de waarheid en behandelt vrouwen met het hoogste respect.
-a
+
 * **Koning Arthur**: De legendarische Keltische vorst van Camelot. Zijn hofdag wordt onderbroken door het verschijnen van het magische zwevende schaakbord.
 
 * **Ysabele**: De beeldschone prinses van kasteel Endi. Hoofs, verstandig en trouw; wordt op slag verliefd op Walewein.
