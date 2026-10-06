@@ -1,7 +1,6 @@
 ---
-title: Kennen & Kunnen - Nederlands
+title: Kennen & Kunnen
 aliases:
-  - Kennen & Kunnen
 ---
 
 #### 1. Je weet hoe de **literatuurgeschiedenis** een aanvulling is op de algemene geschiedenis.
