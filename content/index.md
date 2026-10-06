@@ -7,8 +7,8 @@ title: Samenvattingen.
 
 ### 🇳🇱 Nederlands
 *  **[[Toetsweek 1/Nederlands/Kennen & Kunnen|Kennen & Kunnen (Leerdoelen & Begrippen)]]**
-  *  [[Karel ende Elegast]] – *Voorhoofse ridderroman (Karelepos)*
-  *  [[Reinaert de Vos]] – *Dierenepos & satire*
+  -  [[Karel ende Elegast]] – *Voorhoofse ridderroman (Karelepos)*
+  -  [[Reinaert de Vos]] – *Dierenepos & satire*
   *  [[Beatrijs]] – *Mariamirakel & exempel*
   *  [[Walewein]] – *Hoofse Arthurroman (kettingqueeste)*
   *  [[Elckerlyc]] – *Moraliteit & allegorie*
