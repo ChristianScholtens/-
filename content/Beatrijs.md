@@ -1,3 +1,7 @@
+---
+title: Beatrijs
+---
+
 ## 1. Belangrijkste Personages
 
 * **Beatrijs**: Vrome non en kosteres in een klooster. Verlaat het klooster uit jeugdliefde met een ridder, maar blijft tijdens haar diepste verval trouw bidden tot Maria.

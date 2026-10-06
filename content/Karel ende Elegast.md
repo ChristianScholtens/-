@@ -1,3 +1,7 @@
+---
+title: Karel ende Elegast
+---
+
 ## 1. Belangrijkste Personages
 
 * **Karel de Grote (koning/keizer)**: Machtige christelijke vorst en leenheer. Gehoorzaamt blindelings aan God om te gaan stelen, ook al begrijpt hij het niet. Neemt de schuilnaam 'Adelbrecht' aan.

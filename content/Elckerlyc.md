@@ -1,3 +1,7 @@
+---
+title: Elckerlyc
+---
+
 ## 1. Belangrijkste Personages (Allegorieën)
 
 * **Elckerlyc ('Ieder mens')**: Rijke, zorgeloze man die alleen geniet van werelds genot en bezit totdat de Dood hem plotseling oproept voor zijn eindrekening voor God.

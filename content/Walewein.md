@@ -1,3 +1,10 @@
+---
+title: Walewein
+aliases:
+  - Walewijn
+  - Roman van Walewein
+---
+
 ## 1. Belangrijkste Personages
 
 * **Walewein (Gawain)**: De volmaakte hoofse ridder van koning Arthurs Ronde Tafel. Uitermate hoffelijk, dapper, vroom, spreekt altijd de waarheid en behandelt vrouwen met het hoogste respect.
@@ -30,9 +37,9 @@
 
 ## 4. Kernthema’s
 
-* **Hoofsheid ([beleefdheid & zelfbeheersing](https://nl.wikipedia.org/wiki/Hoofsheid))**: Walewein vecht alleen wanneer het strikt noodzakelijk is. Hij lost conflicten bij voorkeur op met wellevendheid, loyaliteit en respect.
+* **Hoofsheid (beleefdheid & zelfbeheersing)**: Walewein vecht alleen wanneer het strikt noodzakelijk is. Hij lost conflicten bij voorkeur op met wellevendheid, loyaliteit en respect.
 
-* **De hoofse liefde (amour courtois)**: Liefde is niet plat of ruw (zoals in voorhoofse teksten), maar een verheven, wederzijdse band vol toewijding en respect tussen ridder en jonkvrouw.
+* **De [hoofse liefde](https://nl.wikipedia.org/wiki/Hoofse_liefde) (amour courtois)**: Liefde is niet plat of ruw (zoals in voorhoofse teksten), maar een verheven, wederzijdse band vol toewijding en respect tussen ridder en jonkvrouw.
 
 * **De individuele queeste**: Geen massale oorlog of veldslag van een heel leger, maar een eenzame beproeving waarin de individuele ridder zijn deugd en morele zuiverheid moet bewijzen.
 
@@ -41,5 +48,7 @@
 * **Hoofse ridderroman (Brits-Keltische roman)**: Draait om koning Arthur en zijn ridders. Verfijnde omgangsvormen, verheven rol van de vrouw, magie en sprookjeselementen (vliegend schaakbord, sprekende vos, zwaardbrug).
 
 * **Kettingqueeste (ruiltocht)**: Typisch sprookjesmotief waarin de held van de ene opdracht in de andere belandt (A wil B, maar B wil C, die D wil).
+
+* **Tegenhanger van de voorhoofse roman**: Waar in [[Karel ende Elegast]] brute trouw en strijd centraal staan, draait het in Walewein om verfijnde hoofsheid en respect voor vrouwen. (Zie ook [[index|Kennen & Kunnen]]).
 
 * **Auteurs**: Geschreven door **Penninc** (die twee derde voltooide) en rond 1260 afgemaakt door **Pieter Vostaert**.

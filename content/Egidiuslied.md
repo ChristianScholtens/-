@@ -1,3 +1,7 @@
+---
+title: Egidiuslied
+---
+
 Middelnederlands
 
 Egidius waer bestu bleven  

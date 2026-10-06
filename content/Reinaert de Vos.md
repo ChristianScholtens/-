@@ -1,3 +1,7 @@
+---
+title: Reinaert de Vos
+---
+
 ## 1. Belangrijkste Personages
 
 * **Reinaert (vos)**: Sluwe antiheld. verslaat iedereen met retoriek en list.

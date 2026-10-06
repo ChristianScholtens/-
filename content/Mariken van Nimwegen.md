@@ -1,3 +1,7 @@
+---
+title: Mariken van Nimwegen
+---
+
 ## 1. Belangrijkste Personages
 
 * **Mariken (Emmeken)**: Onschuldig en intelligent dorpsmeisje. Wordt na een woede-uitbarsting van haar tante verleid door de duivel. Neemt de naam 'Emmeken' aan (naar de letter M) en leert alle wereldse kennis, maar behoudt diep vanbinnen haar geweten.
