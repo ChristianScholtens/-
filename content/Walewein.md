@@ -39,7 +39,7 @@ aliases:
 
 * **Hoofsheid (beleefdheid & zelfbeheersing)**: Walewein vecht alleen wanneer het strikt noodzakelijk is. Hij lost conflicten bij voorkeur op met wellevendheid, loyaliteit en respect.
 
-* **De [hoofse liefde](https://nl.wikipedia.org/wiki/Hoofse_liefde) (amour courtois)**: Liefde is niet plat of ruw (zoals in voorhoofse teksten), maar een verheven, wederzijdse band vol toewijding en respect tussen ridder en jonkvrouw.
+* **De [hoofse liefde](https://nl.wikipedia.org/wiki/Hoofse_liefde)**: Liefde is niet plat of ruw (zoals in voorhoofse teksten), maar een verheven, wederzijdse band vol toewijding en respect tussen ridder en jonkvrouw.
 
 * **De individuele queeste**: Geen massale oorlog of veldslag van een heel leger, maar een eenzame beproeving waarin de individuele ridder zijn deugd en morele zuiverheid moet bewijzen.
 
