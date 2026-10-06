@@ -65,7 +65,7 @@ flowchart TD
 #### 23. Karelromans.
 Een Karelroman is een voorhoofse middeleeuwse ridderroman, waarin de strijd, trouw aan de leenheer (Karel de Grote) en het christelijke geloof centraal staan, met ruwe omgangsvormen. Verder is dit een voorhoofse roman.
 #### 24. Arthurromans.
-Een Arthurroman is een hoofse middeleeuwse ridderroman, waarin de individuele zoektocht (queeste) van ridders van de Ronde Tafel en verfijnde omgangsvormen centraal staan. Verder is dit een hoofse roman.
+Een Arthurroman is een hoofse middeleeuwse ridderroman, waarin de individuele zoektocht (queeste) van ridders van de Ronde Tafel en verfijnde omgangsvormen centraal staan. Verder is dit een hoofse roman. Lees [[Walewein]].
 #### 25. Hoofs.
 Een hoofse roman is een type middeleeuwse ridderroman waarin de ideale omgangsvormen en de 'hoofsheid' ([beleefdheid](https://nl.wikipedia.org/wiki/Beleefdheid)) van het ridderlijke hof centraal staan.
 #### 26. Voorhoofs.
@@ -79,7 +79,7 @@ Een voorhoofse roman is een type middeleeuwse ridderroman waarin trouw aan de le
 | **Rol van de vrouw** | Ondergeschikt, passief, vaak ruw behandeld | Centraal, hooggeacht; inspiratie voor ridderlijke queeste (hoofse liefde) |
 | **Sfeer & verhaallijn** | Harde oorlogen, veldslagen, feodale conflicten | Individuele zoektocht (queeste), avontuur, magie, mystiek (de Graal) |
 | **Doel van de ridder** | Leenheer en God dienen, vijanden doden | Zichzelf bewijzen als beschaafd en deugdzaam ridder |
-| **Typisch voorbeeld** | *[[Karel ende Elegast]]* | *Walewein*, *Ferguut*, *Lancelot* |
+| **Typisch voorbeeld** | *[[Karel ende Elegast]]* | *[[Walewein]]*, *Ferguut*, *Lancelot* |
 
 #### 27. Je kunt uitleggen dat de hoofse cultuur als het begin van de westerse beschaving wordt gezien.
 De hoofse cultuur wordt gezien als het begin van de westerse beschaving omdat het de overgang markeerde van ruw, middeleeuws machtsvertoon naar verfijnde sociale omgangsvormen, zelfbeheersing en respect.
